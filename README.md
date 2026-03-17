@@ -1,20 +1,30 @@
-# Food-Delivery-Data-Analysis Project
+# 🍽️ Food Delivery Data Analysis
 This project focuses on analyzing a food delivery dataset to extract meaningful business insights and improve decision-making.
 
-Tools & Technologies:
-- Python
-- Pandas
-- Matplotlib
+## 📊 Full Business Analysis
 
-Key Analysis Performed:
-- Sales Analysis
-- Customer Behavior Analysis
-- Product Performance Analysis
-- Time-based Analysis
-- Delivery Performance Evaluation
+### 🔥 Key Insights
 
-Key Insights:
-- Identification of Top Performing Cities
-- Most Popular Dishes
-- Revenue Trends Over Time
-- Order Patterns and Customer Preferences
+* 🏙️ **Top City:** Mumbai
+* 🍗 **Top Dish:** Chicken Biryani
+* ⏰ **Peak Order Time:** Evening
+* ⭐ **Highest Rated Dish:** Paneer Butter Masala
+* 🚀 **Fastest Delivery City:** Bangalore
+
+---
+
+## 📈 Project Highlights
+
+* Sales Analysis
+* Customer Analysis
+* Product Performance
+* Time Analysis
+* Delivery Performance
+
+---
+
+## 🛠️ Tools Used
+
+* Python
+* Pandas
+* Matplotlib
