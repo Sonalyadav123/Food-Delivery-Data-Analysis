@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,City,State,Restaurant,Dish_Name,Category,Customer_ID,Quantity,Price (INR),Rating,Delivery_Time_Min
+1001,01-01-2024 00:00,Hyderabad,Telangana,Urban Bites,Veg Burger,Veg,150,2,252,4.7,47
+1002,01-01-2024 01:00,Kolkata,Telangana,Tandoori Treat,Chicken Roll,Veg,120,3,112,4.2,37
+1003,01-01-2024 02:00,Bangalore,Telangana,Food Corner,Fish Curry,Veg,111,3,221,4.8,33
+1004,01-01-2024 03:00,Kolkata,Telangana,Spice Hub,Paneer Butter Masala,Veg,149,1,458,3.8,37
+1005,01-01-2024 04:00,Kolkata,West Bengal,Royal Kitchen,Chicken Roll,Non-Veg,103,4,319,4.9,47
+1006,01-01-2024 05:00,Delhi,West Bengal,Royal Kitchen,Veg Pizza,Veg,141,2,205,3.8,43
+1007,01-01-2024 06:00,Bangalore,Delhi,Spice Hub,Chicken Biryani,Veg,183,4,474,4,27
+1008,01-01-2024 07:00,Bangalore,Maharashtra,Spice Hub,Veg Pizza,Veg,137,2,169,4.6,27
+1009,01-01-2024 08:00,Bangalore,Telangana,Food Corner,Masala Dosa,Veg,124,1,294,4.1,23
+1010,01-01-2024 09:00,Kolkata,Delhi,Tandoori Treat,Masala Dosa,Veg,113,2,285,4.4,46
+1011,01-01-2024 10:00,Hyderabad,Maharashtra,Royal Kitchen,Chicken Biryani,Non-Veg,174,4,198,4.2,55
+1012,01-01-2024 11:00,Bangalore,Karnataka,Food Corner,Veg Burger,Veg,131,4,181,4.6,24
+1013,01-01-2024 12:00,Kolkata,West Bengal,Tandoori Treat,Veg Burger,Veg,110,1,174,3.8,52
+1014,01-01-2024 13:00,Delhi,Maharashtra,Food Corner,Masala Dosa,Veg,160,4,473,3.6,53
+1015,01-01-2024 14:00,Hyderabad,Karnataka,Royal Kitchen,Masala Dosa,Non-Veg,117,2,439,3.9,49
+1016,01-01-2024 15:00,Delhi,Maharashtra,Spice Hub,Fish Curry,Non-Veg,126,1,291,4.2,27
+1017,01-01-2024 16:00,Hyderabad,West Bengal,Spice Hub,Paneer Butter Masala,Non-Veg,154,2,424,3.8,58
+1018,01-01-2024 17:00,Kolkata,West Bengal,Tandoori Treat,Fish Curry,Veg,153,4,313,4,45
+1019,01-01-2024 18:00,Mumbai,Delhi,Urban Bites,Fish Curry,Non-Veg,181,1,414,4.1,56
+1020,01-01-2024 19:00,Hyderabad,Telangana,Tandoori Treat,Veg Burger,Veg,186,2,481,3.6,53
+1021,01-01-2024 20:00,Delhi,Maharashtra,Urban Bites,Chicken Biryani,Veg,174,4,466,4.4,26
+1022,01-01-2024 21:00,Kolkata,Maharashtra,Food Corner,Veg Burger,Non-Veg,120,4,417,4.8,59
+1023,01-01-2024 22:00,Hyderabad,Karnataka,Food Corner,Paneer Butter Masala,Veg,143,3,243,3.7,47
+1024,01-01-2024 23:00,Mumbai,West Bengal,Royal Kitchen,Veg Pizza,Veg,104,4,483,4.4,58
+1025,02-01-2024 00:00,Mumbai,Maharashtra,Urban Bites,Masala Dosa,Veg,186,2,315,4.5,58
+1026,02-01-2024 01:00,Bangalore,West Bengal,Royal Kitchen,Masala Dosa,Non-Veg,140,1,460,4.1,47
+1027,02-01-2024 02:00,Bangalore,Maharashtra,Spice Hub,Paneer Butter Masala,Veg,158,3,423,4.6,33
+1028,02-01-2024 03:00,Delhi,Delhi,Urban Bites,Fish Curry,Veg,188,4,114,4.1,57
+1029,02-01-2024 04:00,Hyderabad,Telangana,Tandoori Treat,Chicken Biryani,Non-Veg,153,4,316,4.3,23
+1030,02-01-2024 05:00,Hyderabad,Maharashtra,Spice Hub,Masala Dosa,Veg,173,4,134,3.5,37
+1031,02-01-2024 06:00,Bangalore,West Bengal,Spice Hub,Chicken Roll,Veg,121,2,282,4.5,44
+1032,02-01-2024 07:00,Hyderabad,Delhi,Tandoori Treat,Fish Curry,Non-Veg,182,3,369,4.5,26
+1033,02-01-2024 08:00,Hyderabad,Maharashtra,Spice Hub,Masala Dosa,Veg,164,2,457,3.6,57
+1034,02-01-2024 09:00,Mumbai,Karnataka,Urban Bites,Chicken Roll,Veg,163,3,199,4.1,47
+1035,02-01-2024 10:00,Bangalore,Telangana,Royal Kitchen,Paneer Butter Masala,Veg,170,1,106,5,24
+1036,02-01-2024 11:00,Kolkata,Maharashtra,Spice Hub,Paneer Butter Masala,Veg,103,2,129,4.1,22
+1037,02-01-2024 12:00,Bangalore,Delhi,Urban Bites,Fish Curry,Veg,164,2,404,4.3,50
+1038,02-01-2024 13:00,Kolkata,Karnataka,Food Corner,Masala Dosa,Non-Veg,114,1,243,4.9,39
+1039,02-01-2024 14:00,Mumbai,Delhi,Urban Bites,Veg Burger,Non-Veg,175,3,210,4.6,38
+1040,02-01-2024 15:00,Delhi,Delhi,Royal Kitchen,Chicken Roll,Non-Veg,121,4,331,4.4,30
+1041,02-01-2024 16:00,Hyderabad,Karnataka,Urban Bites,Chicken Biryani,Non-Veg,185,1,278,4.7,59
+1042,02-01-2024 17:00,Mumbai,Delhi,Tandoori Treat,Masala Dosa,Veg,146,4,171,4.8,22
+1043,02-01-2024 18:00,Hyderabad,Karnataka,Royal Kitchen,Chicken Biryani,Veg,180,4,309,4.2,42
+1044,02-01-2024 19:00,Delhi,Maharashtra,Food Corner,Masala Dosa,Veg,192,1,319,4.2,26
+1045,02-01-2024 20:00,Delhi,Karnataka,Tandoori Treat,Veg Burger,Veg,145,3,179,4.1,42
+1046,02-01-2024 21:00,Mumbai,Karnataka,Urban Bites,Veg Burger,Veg,113,4,182,5,26
+1047,02-01-2024 22:00,Delhi,Telangana,Royal Kitchen,Fish Curry,Non-Veg,149,1,141,4.5,53
+1048,02-01-2024 23:00,Kolkata,Karnataka,Food Corner,Fish Curry,Non-Veg,119,2,372,3.6,38
+1049,03-01-2024 00:00,Delhi,Karnataka,Tandoori Treat,Veg Burger,Veg,149,2,290,4.8,28
+1050,03-01-2024 01:00,Hyderabad,Maharashtra,Food Corner,Veg Pizza,Veg,132,2,272,4.2,37
+1051,03-01-2024 02:00,Hyderabad,Telangana,Urban Bites,Veg Burger,Veg,158,1,106,3.6,44
+1052,03-01-2024 03:00,Hyderabad,West Bengal,Food Corner,Paneer Butter Masala,Non-Veg,142,2,254,4.3,33
+1053,03-01-2024 04:00,Hyderabad,Maharashtra,Spice Hub,Paneer Butter Masala,Veg,178,4,109,4.1,44
+1054,03-01-2024 05:00,Kolkata,Maharashtra,Tandoori Treat,Veg Pizza,Veg,111,2,133,4.8,38
+1055,03-01-2024 06:00,Bangalore,West Bengal,Food Corner,Chicken Roll,Veg,139,2,135,3.8,58
+1056,03-01-2024 07:00,Mumbai,Karnataka,Urban Bites,Chicken Biryani,Non-Veg,119,4,105,4.7,34
+1057,03-01-2024 08:00,Hyderabad,Delhi,Urban Bites,Masala Dosa,Veg,193,2,314,4.3,35
+1058,03-01-2024 09:00,Delhi,Telangana,Food Corner,Masala Dosa,Non-Veg,137,4,233,3.6,46
+1059,03-01-2024 10:00,Hyderabad,Delhi,Urban Bites,Veg Pizza,Non-Veg,102,2,384,5,59
+1060,03-01-2024 11:00,Delhi,West Bengal,Royal Kitchen,Paneer Butter Masala,Non-Veg,127,4,225,4.3,29
+1061,03-01-2024 12:00,Delhi,Maharashtra,Royal Kitchen,Fish Curry,Non-Veg,155,2,436,3.9,23
+1062,03-01-2024 13:00,Hyderabad,Maharashtra,Royal Kitchen,Masala Dosa,Non-Veg,189,4,273,4.2,38
+1063,03-01-2024 14:00,Kolkata,Telangana,Spice Hub,Paneer Butter Masala,Non-Veg,193,1,251,4.8,47
+1064,03-01-2024 15:00,Delhi,Maharashtra,Food Corner,Chicken Roll,Veg,112,4,430,4,40
+1065,03-01-2024 16:00,Delhi,Maharashtra,Spice Hub,Chicken Biryani,Veg,176,2,125,3.8,33
+1066,03-01-2024 17:00,Hyderabad,Telangana,Urban Bites,Chicken Roll,Veg,165,2,482,3.7,52
+1067,03-01-2024 18:00,Delhi,Telangana,Spice Hub,Veg Pizza,Non-Veg,136,3,214,3.9,29
+1068,03-01-2024 19:00,Delhi,West Bengal,Urban Bites,Veg Burger,Veg,148,4,481,4.7,38
+1069,03-01-2024 20:00,Hyderabad,Maharashtra,Urban Bites,Veg Burger,Non-Veg,165,1,383,4.2,49
+1070,03-01-2024 21:00,Hyderabad,Maharashtra,Tandoori Treat,Veg Burger,Non-Veg,135,4,486,3.8,41
+1071,03-01-2024 22:00,Mumbai,West Bengal,Royal Kitchen,Chicken Roll,Non-Veg,153,4,174,3.7,22
+1072,03-01-2024 23:00,Kolkata,Karnataka,Urban Bites,Masala Dosa,Veg,125,1,265,4,56
+1073,04-01-2024 00:00,Kolkata,Karnataka,Tandoori Treat,Chicken Biryani,Non-Veg,174,4,288,4.9,37
+1074,04-01-2024 01:00,Delhi,Karnataka,Royal Kitchen,Veg Burger,Non-Veg,171,1,177,4,30
+1075,04-01-2024 02:00,Kolkata,West Bengal,Urban Bites,Veg Pizza,Veg,139,1,189,5,21
+1076,04-01-2024 03:00,Delhi,Maharashtra,Urban Bites,Veg Pizza,Veg,142,4,275,4.2,31
+1077,04-01-2024 04:00,Mumbai,West Bengal,Spice Hub,Veg Burger,Non-Veg,121,4,120,3.8,25
+1078,04-01-2024 05:00,Hyderabad,West Bengal,Spice Hub,Veg Burger,Non-Veg,119,2,153,4.8,59
+1079,04-01-2024 06:00,Hyderabad,Karnataka,Royal Kitchen,Chicken Biryani,Veg,107,2,283,4.2,48
+1080,04-01-2024 07:00,Hyderabad,Delhi,Urban Bites,Veg Burger,Veg,128,3,458,4.6,49
+1081,04-01-2024 08:00,Kolkata,Maharashtra,Food Corner,Chicken Biryani,Veg,139,3,321,5,21
+1082,04-01-2024 09:00,Mumbai,Karnataka,Spice Hub,Veg Pizza,Non-Veg,189,4,414,3.6,28
+1083,04-01-2024 10:00,Kolkata,Delhi,Royal Kitchen,Veg Burger,Veg,129,1,427,3.6,21
+1084,04-01-2024 11:00,Kolkata,Delhi,Urban Bites,Chicken Roll,Veg,180,3,278,4.6,48
+1085,04-01-2024 12:00,Mumbai,Telangana,Urban Bites,Fish Curry,Veg,183,4,375,3.9,52
+1086,04-01-2024 13:00,Mumbai,Maharashtra,Food Corner,Chicken Roll,Non-Veg,154,3,211,3.8,29
+1087,04-01-2024 14:00,Mumbai,Delhi,Royal Kitchen,Veg Pizza,Veg,115,1,323,3.6,53
+1088,04-01-2024 15:00,Mumbai,Karnataka,Urban Bites,Chicken Biryani,Veg,145,4,313,3.5,27
+1089,04-01-2024 16:00,Hyderabad,Telangana,Spice Hub,Chicken Roll,Veg,161,1,158,4.7,56
+1090,04-01-2024 17:00,Bangalore,Maharashtra,Food Corner,Chicken Biryani,Veg,106,4,426,3.7,52
+1091,04-01-2024 18:00,Bangalore,West Bengal,Royal Kitchen,Chicken Roll,Veg,179,3,492,4.2,25
+1092,04-01-2024 19:00,Mumbai,Karnataka,Food Corner,Chicken Roll,Non-Veg,144,2,208,4.4,59
+1093,04-01-2024 20:00,Bangalore,Delhi,Spice Hub,Chicken Biryani,Non-Veg,158,3,484,4.1,38
+1094,04-01-2024 21:00,Bangalore,Delhi,Royal Kitchen,Masala Dosa,Non-Veg,155,3,256,3.5,51
+1095,04-01-2024 22:00,Mumbai,Karnataka,Food Corner,Chicken Roll,Veg,147,2,290,4.7,46
+1096,04-01-2024 23:00,Bangalore,Delhi,Tandoori Treat,Veg Burger,Non-Veg,126,2,299,3.5,20
+1097,05-01-2024 00:00,Kolkata,Telangana,Spice Hub,Fish Curry,Non-Veg,152,4,411,4.6,52
+1098,05-01-2024 01:00,Delhi,Maharashtra,Spice Hub,Veg Pizza,Non-Veg,186,4,295,4.8,59
+1099,05-01-2024 02:00,Delhi,Telangana,Spice Hub,Masala Dosa,Veg,187,1,134,4.1,51
+1100,05-01-2024 03:00,Mumbai,Delhi,Tandoori Treat,Chicken Biryani,Veg,172,1,478,4.3,24
+1101,05-01-2024 04:00,Hyderabad,West Bengal,Tandoori Treat,Masala Dosa,Non-Veg,134,3,486,4.2,36
+1102,05-01-2024 05:00,Mumbai,Maharashtra,Urban Bites,Paneer Butter Masala,Non-Veg,150,2,345,4.1,27
+1103,05-01-2024 06:00,Hyderabad,Maharashtra,Food Corner,Paneer Butter Masala,Veg,183,1,336,4.8,53
+1104,05-01-2024 07:00,Delhi,Karnataka,Urban Bites,Chicken Roll,Veg,136,3,203,4.8,28
+1105,05-01-2024 08:00,Mumbai,Karnataka,Food Corner,Chicken Roll,Non-Veg,180,2,106,4,42
+1106,05-01-2024 09:00,Kolkata,West Bengal,Tandoori Treat,Veg Burger,Veg,194,4,382,4.4,54
+1107,05-01-2024 10:00,Bangalore,Maharashtra,Tandoori Treat,Fish Curry,Non-Veg,156,3,100,4.9,26
+1108,05-01-2024 11:00,Hyderabad,West Bengal,Urban Bites,Veg Pizza,Veg,107,4,318,4.9,34
+1109,05-01-2024 12:00,Bangalore,Karnataka,Royal Kitchen,Masala Dosa,Non-Veg,178,1,329,4.3,39
+1110,05-01-2024 13:00,Bangalore,Karnataka,Urban Bites,Paneer Butter Masala,Non-Veg,194,1,271,4.2,44
+1111,05-01-2024 14:00,Mumbai,Maharashtra,Food Corner,Chicken Roll,Veg,193,2,186,3.9,22
+1112,05-01-2024 15:00,Bangalore,Telangana,Urban Bites,Veg Pizza,Non-Veg,119,3,140,4.9,43
+1113,05-01-2024 16:00,Kolkata,Delhi,Spice Hub,Masala Dosa,Non-Veg,152,4,222,3.7,53
+1114,05-01-2024 17:00,Bangalore,Karnataka,Food Corner,Chicken Roll,Non-Veg,111,2,430,4.4,41
+1115,05-01-2024 18:00,Mumbai,Karnataka,Food Corner,Chicken Roll,Veg,148,1,397,3.9,30
+1116,05-01-2024 19:00,Kolkata,Telangana,Royal Kitchen,Paneer Butter Masala,Veg,116,1,472,3.9,27
+1117,05-01-2024 20:00,Delhi,Telangana,Tandoori Treat,Paneer Butter Masala,Veg,163,3,277,4.1,58
+1118,05-01-2024 21:00,Bangalore,West Bengal,Food Corner,Chicken Roll,Non-Veg,141,4,162,5,54
+1119,05-01-2024 22:00,Mumbai,West Bengal,Tandoori Treat,Chicken Biryani,Veg,193,3,264,3.6,57
+1120,05-01-2024 23:00,Delhi,Delhi,Urban Bites,Chicken Roll,Non-Veg,128,4,286,4.4,27
+1121,06-01-2024 00:00,Delhi,Delhi,Spice Hub,Veg Pizza,Non-Veg,118,4,482,3.6,56
+1122,06-01-2024 01:00,Hyderabad,Maharashtra,Royal Kitchen,Chicken Roll,Veg,110,3,308,3.7,46
+1123,06-01-2024 02:00,Kolkata,West Bengal,Tandoori Treat,Veg Burger,Veg,197,2,326,4.2,47
+1124,06-01-2024 03:00,Bangalore,Karnataka,Food Corner,Fish Curry,Non-Veg,149,3,488,4.3,59
+1125,06-01-2024 04:00,Mumbai,West Bengal,Tandoori Treat,Veg Burger,Non-Veg,170,3,147,3.9,53
+1126,06-01-2024 05:00,Hyderabad,Karnataka,Food Corner,Veg Burger,Veg,157,1,323,4,51
+1127,06-01-2024 06:00,Kolkata,Telangana,Tandoori Treat,Chicken Biryani,Veg,133,1,102,3.6,34
+1128,06-01-2024 07:00,Hyderabad,West Bengal,Food Corner,Chicken Biryani,Veg,119,3,471,4,36
+1129,06-01-2024 08:00,Kolkata,Telangana,Urban Bites,Chicken Roll,Non-Veg,149,3,274,4.9,52
+1130,06-01-2024 09:00,Kolkata,Delhi,Food Corner,Veg Burger,Non-Veg,187,1,198,4.9,35
+1131,06-01-2024 10:00,Bangalore,Delhi,Food Corner,Chicken Biryani,Non-Veg,109,4,215,4,48
+1132,06-01-2024 11:00,Kolkata,Maharashtra,Spice Hub,Paneer Butter Masala,Non-Veg,131,3,369,4.4,28
+1133,06-01-2024 12:00,Hyderabad,West Bengal,Food Corner,Chicken Roll,Non-Veg,151,2,467,4.9,52
+1134,06-01-2024 13:00,Kolkata,Telangana,Spice Hub,Veg Pizza,Veg,114,2,352,3.5,48
+1135,06-01-2024 14:00,Bangalore,Karnataka,Royal Kitchen,Fish Curry,Veg,183,2,416,4.7,32
+1136,06-01-2024 15:00,Bangalore,Delhi,Spice Hub,Masala Dosa,Non-Veg,102,3,194,4.9,40
+1137,06-01-2024 16:00,Hyderabad,Delhi,Urban Bites,Chicken Roll,Non-Veg,136,4,372,3.6,40
+1138,06-01-2024 17:00,Delhi,Karnataka,Spice Hub,Masala Dosa,Veg,139,4,479,3.7,24
+1139,06-01-2024 18:00,Delhi,Telangana,Royal Kitchen,Veg Burger,Veg,171,1,123,4.9,29
+1140,06-01-2024 19:00,Kolkata,Telangana,Urban Bites,Fish Curry,Veg,139,3,215,4.3,25
+1141,06-01-2024 20:00,Mumbai,West Bengal,Tandoori Treat,Masala Dosa,Veg,155,4,250,3.5,32
+1142,06-01-2024 21:00,Kolkata,West Bengal,Tandoori Treat,Veg Burger,Non-Veg,122,3,437,3.9,20
+1143,06-01-2024 22:00,Hyderabad,Maharashtra,Spice Hub,Paneer Butter Masala,Veg,110,1,149,4.2,39
+1144,06-01-2024 23:00,Hyderabad,Delhi,Spice Hub,Masala Dosa,Non-Veg,163,1,305,4.5,27
+1145,07-01-2024 00:00,Hyderabad,West Bengal,Royal Kitchen,Fish Curry,Veg,107,1,434,4.6,29
+1146,07-01-2024 01:00,Hyderabad,Telangana,Royal Kitchen,Chicken Roll,Veg,192,2,178,5,28
+1147,07-01-2024 02:00,Hyderabad,Karnataka,Food Corner,Veg Burger,Veg,193,3,169,3.9,22
+1148,07-01-2024 03:00,Bangalore,Telangana,Royal Kitchen,Chicken Roll,Non-Veg,155,1,126,4.3,30
+1149,07-01-2024 04:00,Delhi,Delhi,Food Corner,Fish Curry,Non-Veg,159,3,370,4.3,31
+1150,07-01-2024 05:00,Hyderabad,Telangana,Urban Bites,Chicken Biryani,Veg,109,2,149,4.1,29
+1151,07-01-2024 06:00,Mumbai,Maharashtra,Spice Hub,Veg Burger,Non-Veg,138,2,391,3.8,44
+1152,07-01-2024 07:00,Mumbai,Delhi,Urban Bites,Masala Dosa,Non-Veg,127,1,346,5,44
+1153,07-01-2024 08:00,Mumbai,Karnataka,Royal Kitchen,Veg Burger,Veg,148,1,363,4.8,30
+1154,07-01-2024 09:00,Mumbai,Maharashtra,Urban Bites,Chicken Roll,Veg,135,4,178,4.2,55
+1155,07-01-2024 10:00,Bangalore,Delhi,Urban Bites,Paneer Butter Masala,Non-Veg,112,3,486,4.4,58
+1156,07-01-2024 11:00,Mumbai,Karnataka,Urban Bites,Veg Burger,Non-Veg,195,1,289,3.8,45
+1157,07-01-2024 12:00,Hyderabad,Maharashtra,Royal Kitchen,Masala Dosa,Non-Veg,135,4,146,4.3,33
+1158,07-01-2024 13:00,Kolkata,Maharashtra,Urban Bites,Chicken Biryani,Veg,125,3,460,4.5,58
+1159,07-01-2024 14:00,Mumbai,Delhi,Food Corner,Veg Pizza,Veg,185,1,453,4.3,59
+1160,07-01-2024 15:00,Bangalore,West Bengal,Royal Kitchen,Paneer Butter Masala,Non-Veg,103,4,451,5,20
+1161,07-01-2024 16:00,Bangalore,Maharashtra,Urban Bites,Chicken Biryani,Veg,194,4,288,4.4,23
+1162,07-01-2024 17:00,Mumbai,Maharashtra,Royal Kitchen,Veg Burger,Veg,181,3,355,4.1,49
+1163,07-01-2024 18:00,Kolkata,Karnataka,Tandoori Treat,Chicken Roll,Non-Veg,163,4,321,4.7,31
+1164,07-01-2024 19:00,Mumbai,Telangana,Food Corner,Fish Curry,Non-Veg,137,3,471,3.8,54
+1165,07-01-2024 20:00,Bangalore,Delhi,Urban Bites,Chicken Roll,Veg,187,3,340,4.1,32
+1166,07-01-2024 21:00,Delhi,Delhi,Tandoori Treat,Masala Dosa,Veg,186,3,368,4,50
+1167,07-01-2024 22:00,Hyderabad,West Bengal,Tandoori Treat,Chicken Roll,Non-Veg,121,2,100,4.1,57
+1168,07-01-2024 23:00,Bangalore,West Bengal,Royal Kitchen,Paneer Butter Masala,Veg,101,4,133,4.7,42
+1169,08-01-2024 00:00,Mumbai,Delhi,Tandoori Treat,Chicken Roll,Veg,130,3,178,4.2,23
+1170,08-01-2024 01:00,Hyderabad,West Bengal,Food Corner,Masala Dosa,Non-Veg,110,1,335,4.7,35
+1171,08-01-2024 02:00,Mumbai,Karnataka,Food Corner,Veg Pizza,Non-Veg,191,2,433,4.4,26
+1172,08-01-2024 03:00,Mumbai,Delhi,Spice Hub,Veg Burger,Veg,145,2,476,4,41
+1173,08-01-2024 04:00,Delhi,West Bengal,Food Corner,Fish Curry,Veg,195,4,448,4.7,48
+1174,08-01-2024 05:00,Hyderabad,Delhi,Tandoori Treat,Veg Burger,Veg,161,3,197,3.9,30
+1175,08-01-2024 06:00,Hyderabad,Telangana,Food Corner,Chicken Roll,Non-Veg,168,4,181,3.8,52
+1176,08-01-2024 07:00,Delhi,Maharashtra,Royal Kitchen,Chicken Biryani,Veg,163,2,291,4.3,48
+1177,08-01-2024 08:00,Bangalore,Delhi,Spice Hub,Veg Burger,Veg,109,3,352,3.9,58
+1178,08-01-2024 09:00,Mumbai,Maharashtra,Tandoori Treat,Veg Pizza,Non-Veg,139,1,137,3.5,31
+1179,08-01-2024 10:00,Kolkata,West Bengal,Spice Hub,Chicken Roll,Non-Veg,123,3,113,4.5,26
+1180,08-01-2024 11:00,Mumbai,Maharashtra,Tandoori Treat,Fish Curry,Veg,198,2,491,4.3,58
+1181,08-01-2024 12:00,Mumbai,Delhi,Royal Kitchen,Masala Dosa,Non-Veg,143,1,446,4.2,45
+1182,08-01-2024 13:00,Bangalore,Telangana,Spice Hub,Veg Pizza,Non-Veg,159,3,409,5,59
+1183,08-01-2024 14:00,Mumbai,West Bengal,Urban Bites,Chicken Roll,Veg,161,1,485,4.4,28
+1184,08-01-2024 15:00,Delhi,Delhi,Tandoori Treat,Veg Pizza,Non-Veg,186,1,308,4.8,53
+1185,08-01-2024 16:00,Delhi,West Bengal,Urban Bites,Veg Burger,Non-Veg,116,2,456,3.7,32
+1186,08-01-2024 17:00,Hyderabad,Karnataka,Spice Hub,Fish Curry,Veg,164,1,188,4.4,55
+1187,08-01-2024 18:00,Kolkata,Maharashtra,Urban Bites,Masala Dosa,Non-Veg,194,4,155,4.8,44
+1188,08-01-2024 19:00,Mumbai,Karnataka,Urban Bites,Chicken Roll,Veg,194,2,193,4.4,43
+1189,08-01-2024 20:00,Mumbai,Delhi,Spice Hub,Paneer Butter Masala,Veg,156,4,192,4.6,36
+1190,08-01-2024 21:00,Bangalore,Telangana,Royal Kitchen,Masala Dosa,Non-Veg,154,1,439,4.1,21
+1191,08-01-2024 22:00,Delhi,West Bengal,Urban Bites,Paneer Butter Masala,Non-Veg,152,4,184,3.6,32
+1192,08-01-2024 23:00,Kolkata,Maharashtra,Urban Bites,Veg Pizza,Non-Veg,155,3,344,4.2,50
+1193,09-01-2024 00:00,Hyderabad,West Bengal,Royal Kitchen,Chicken Biryani,Veg,197,1,121,4.1,48
+1194,09-01-2024 01:00,Delhi,Delhi,Urban Bites,Masala Dosa,Non-Veg,108,3,390,4.8,47
+1195,09-01-2024 02:00,Hyderabad,West Bengal,Urban Bites,Veg Pizza,Veg,121,4,371,3.9,46
+1196,09-01-2024 03:00,Bangalore,Maharashtra,Urban Bites,Paneer Butter Masala,Non-Veg,112,3,405,5,34
+1197,09-01-2024 04:00,Bangalore,Delhi,Food Corner,Veg Burger,Non-Veg,188,1,221,4.9,50
+1198,09-01-2024 05:00,Mumbai,West Bengal,Royal Kitchen,Veg Burger,Non-Veg,147,3,227,3.9,59
+1199,09-01-2024 06:00,Kolkata,Telangana,Urban Bites,Chicken Biryani,Veg,117,4,212,4,34
+1200,09-01-2024 07:00,Hyderabad,Delhi,Royal Kitchen,Masala Dosa,Non-Veg,175,4,372,4.8,52
+1201,09-01-2024 08:00,Delhi,Delhi,Tandoori Treat,Masala Dosa,Non-Veg,139,4,435,4.9,39
+1202,09-01-2024 09:00,Bangalore,Telangana,Tandoori Treat,Masala Dosa,Veg,116,1,229,4.2,31
+1203,09-01-2024 10:00,Mumbai,Karnataka,Urban Bites,Veg Pizza,Veg,114,4,231,4,56
+1204,09-01-2024 11:00,Mumbai,Maharashtra,Royal Kitchen,Fish Curry,Non-Veg,114,1,184,4.3,28
+1205,09-01-2024 12:00,Hyderabad,Karnataka,Royal Kitchen,Fish Curry,Non-Veg,178,3,449,4.5,42
+1206,09-01-2024 13:00,Bangalore,West Bengal,Royal Kitchen,Chicken Biryani,Non-Veg,162,4,489,3.9,27
+1207,09-01-2024 14:00,Kolkata,Telangana,Food Corner,Masala Dosa,Veg,138,3,180,4.6,51
+1208,09-01-2024 15:00,Bangalore,Karnataka,Tandoori Treat,Veg Pizza,Veg,112,2,424,3.6,33
+1209,09-01-2024 16:00,Hyderabad,Delhi,Royal Kitchen,Veg Burger,Veg,180,3,168,3.6,46
+1210,09-01-2024 17:00,Hyderabad,West Bengal,Royal Kitchen,Paneer Butter Masala,Veg,131,2,247,4.1,44
+1211,09-01-2024 18:00,Bangalore,West Bengal,Food Corner,Veg Pizza,Non-Veg,108,3,115,4,32
+1212,09-01-2024 19:00,Hyderabad,Karnataka,Food Corner,Fish Curry,Veg,139,1,406,4,40
+1213,09-01-2024 20:00,Bangalore,Karnataka,Royal Kitchen,Fish Curry,Veg,119,3,204,4.2,50
+1214,09-01-2024 21:00,Delhi,Telangana,Spice Hub,Veg Burger,Veg,189,1,264,4,56
+1215,09-01-2024 22:00,Bangalore,Maharashtra,Royal Kitchen,Veg Burger,Non-Veg,190,1,300,3.8,24
+1216,09-01-2024 23:00,Bangalore,Karnataka,Royal Kitchen,Paneer Butter Masala,Non-Veg,184,4,296,4,32
+1217,10-01-2024 00:00,Hyderabad,Karnataka,Food Corner,Veg Burger,Veg,181,1,284,5,47
+1218,10-01-2024 01:00,Hyderabad,Delhi,Food Corner,Chicken Biryani,Veg,176,2,421,4.1,44
+1219,10-01-2024 02:00,Mumbai,West Bengal,Royal Kitchen,Paneer Butter Masala,Non-Veg,179,4,364,4.2,54
+1220,10-01-2024 03:00,Mumbai,Maharashtra,Royal Kitchen,Veg Burger,Non-Veg,172,4,462,4.4,58
+1221,10-01-2024 04:00,Delhi,Delhi,Royal Kitchen,Chicken Roll,Non-Veg,162,3,199,5,26
+1222,10-01-2024 05:00,Mumbai,Telangana,Food Corner,Veg Pizza,Non-Veg,175,1,441,3.9,57
+1223,10-01-2024 06:00,Bangalore,Telangana,Royal Kitchen,Veg Burger,Non-Veg,143,1,419,4.5,51
+1224,10-01-2024 07:00,Hyderabad,Karnataka,Royal Kitchen,Chicken Biryani,Non-Veg,137,2,313,4.6,22
+1225,10-01-2024 08:00,Mumbai,Karnataka,Urban Bites,Masala Dosa,Non-Veg,182,3,377,4.4,58
+1226,10-01-2024 09:00,Mumbai,Telangana,Spice Hub,Veg Burger,Non-Veg,159,3,261,3.6,56
+1227,10-01-2024 10:00,Delhi,Karnataka,Tandoori Treat,Fish Curry,Veg,170,4,256,4.5,41
+1228,10-01-2024 11:00,Delhi,Maharashtra,Spice Hub,Fish Curry,Veg,198,4,350,3.6,27
+1229,10-01-2024 12:00,Bangalore,Karnataka,Urban Bites,Fish Curry,Veg,147,4,465,4.4,36
+1230,10-01-2024 13:00,Hyderabad,West Bengal,Tandoori Treat,Masala Dosa,Veg,117,2,196,4.6,46
+1231,10-01-2024 14:00,Delhi,Karnataka,Royal Kitchen,Fish Curry,Veg,115,2,117,3.8,52
+1232,10-01-2024 15:00,Mumbai,Delhi,Urban Bites,Chicken Roll,Veg,154,4,426,4.8,36
+1233,10-01-2024 16:00,Hyderabad,Maharashtra,Royal Kitchen,Veg Burger,Non-Veg,138,3,482,3.5,31
+1234,10-01-2024 17:00,Hyderabad,Delhi,Food Corner,Fish Curry,Non-Veg,167,2,196,4.8,46
+1235,10-01-2024 18:00,Mumbai,Delhi,Urban Bites,Paneer Butter Masala,Veg,158,3,100,4.2,27
+1236,10-01-2024 19:00,Delhi,West Bengal,Food Corner,Masala Dosa,Veg,188,3,315,3.8,42
+1237,10-01-2024 20:00,Mumbai,Maharashtra,Urban Bites,Chicken Roll,Non-Veg,195,1,231,3.7,48
+1238,10-01-2024 21:00,Hyderabad,Maharashtra,Urban Bites,Paneer Butter Masala,Non-Veg,161,4,359,4.9,39
+1239,10-01-2024 22:00,Kolkata,Maharashtra,Food Corner,Paneer Butter Masala,Non-Veg,112,1,224,3.6,35
+1240,10-01-2024 23:00,Kolkata,Maharashtra,Tandoori Treat,Paneer Butter Masala,Veg,180,4,181,3.8,36
+1241,11-01-2024 00:00,Bangalore,Maharashtra,Spice Hub,Paneer Butter Masala,Non-Veg,105,4,382,4,35
+1242,11-01-2024 01:00,Mumbai,West Bengal,Royal Kitchen,Veg Burger,Veg,182,3,270,4.4,38
+1243,11-01-2024 02:00,Mumbai,Karnataka,Urban Bites,Fish Curry,Veg,176,4,158,4.3,27
+1244,11-01-2024 03:00,Bangalore,Delhi,Royal Kitchen,Veg Pizza,Non-Veg,159,3,131,3.7,57
+1245,11-01-2024 04:00,Bangalore,Maharashtra,Food Corner,Veg Burger,Non-Veg,189,3,260,3.9,57
+1246,11-01-2024 05:00,Bangalore,Karnataka,Royal Kitchen,Veg Burger,Veg,113,4,383,3.9,48
+1247,11-01-2024 06:00,Hyderabad,Karnataka,Food Corner,Chicken Roll,Non-Veg,194,3,205,3.8,55
+1248,11-01-2024 07:00,Mumbai,Delhi,Royal Kitchen,Chicken Roll,Non-Veg,153,3,204,4.1,45
+1249,11-01-2024 08:00,Hyderabad,West Bengal,Spice Hub,Fish Curry,Veg,103,3,327,4.6,50
+1250,11-01-2024 09:00,Bangalore,Telangana,Spice Hub,Veg Pizza,Non-Veg,138,2,287,3.8,31
+1251,11-01-2024 10:00,Mumbai,Telangana,Spice Hub,Chicken Roll,Veg,171,3,169,4.1,36
+1252,11-01-2024 11:00,Hyderabad,Karnataka,Spice Hub,Fish Curry,Veg,124,2,417,4.1,34
+1253,11-01-2024 12:00,Hyderabad,Delhi,Spice Hub,Fish Curry,Non-Veg,176,2,389,5,28
+1254,11-01-2024 13:00,Bangalore,Telangana,Spice Hub,Chicken Biryani,Veg,131,3,186,4.9,58
+1255,11-01-2024 14:00,Mumbai,Karnataka,Food Corner,Veg Pizza,Veg,158,3,469,4.7,31
+1256,11-01-2024 15:00,Bangalore,West Bengal,Urban Bites,Chicken Roll,Non-Veg,162,2,461,3.9,51
+1257,11-01-2024 16:00,Mumbai,Telangana,Royal Kitchen,Veg Pizza,Non-Veg,137,2,155,3.6,44
+1258,11-01-2024 17:00,Kolkata,Karnataka,Spice Hub,Veg Burger,Non-Veg,191,3,212,4,58
+1259,11-01-2024 18:00,Delhi,Karnataka,Food Corner,Veg Burger,Veg,152,3,112,3.9,37
+1260,11-01-2024 19:00,Delhi,Maharashtra,Food Corner,Veg Pizza,Veg,193,4,117,4.3,34
+1261,11-01-2024 20:00,Delhi,West Bengal,Food Corner,Chicken Biryani,Non-Veg,166,2,281,4.7,51
+1262,11-01-2024 21:00,Bangalore,Maharashtra,Urban Bites,Chicken Biryani,Veg,127,2,212,4.8,25
+1263,11-01-2024 22:00,Kolkata,Delhi,Royal Kitchen,Veg Pizza,Non-Veg,102,4,328,4.8,54
+1264,11-01-2024 23:00,Mumbai,Maharashtra,Urban Bites,Chicken Roll,Non-Veg,197,2,270,4,53
+1265,12-01-2024 00:00,Hyderabad,Maharashtra,Tandoori Treat,Masala Dosa,Veg,179,1,394,4.5,57
+1266,12-01-2024 01:00,Mumbai,Telangana,Food Corner,Chicken Biryani,Non-Veg,121,2,288,4,24
+1267,12-01-2024 02:00,Hyderabad,Karnataka,Tandoori Treat,Paneer Butter Masala,Veg,195,4,178,3.6,37
+1268,12-01-2024 03:00,Mumbai,West Bengal,Spice Hub,Veg Burger,Veg,137,1,245,4.6,35
+1269,12-01-2024 04:00,Kolkata,Maharashtra,Spice Hub,Veg Pizza,Non-Veg,171,3,281,3.5,27
+1270,12-01-2024 05:00,Hyderabad,West Bengal,Urban Bites,Paneer Butter Masala,Veg,171,4,385,4.1,44
+1271,12-01-2024 06:00,Bangalore,Maharashtra,Royal Kitchen,Veg Pizza,Non-Veg,161,4,349,4,51
+1272,12-01-2024 07:00,Mumbai,Delhi,Tandoori Treat,Fish Curry,Veg,156,3,453,4.5,45
+1273,12-01-2024 08:00,Mumbai,Maharashtra,Royal Kitchen,Veg Burger,Veg,105,4,413,4.6,41
+1274,12-01-2024 09:00,Hyderabad,Telangana,Urban Bites,Veg Burger,Veg,177,2,295,4,50
+1275,12-01-2024 10:00,Bangalore,Karnataka,Spice Hub,Chicken Biryani,Non-Veg,131,3,422,4.7,29
+1276,12-01-2024 11:00,Bangalore,Delhi,Royal Kitchen,Chicken Biryani,Veg,198,4,170,3.9,31
+1277,12-01-2024 12:00,Kolkata,Maharashtra,Royal Kitchen,Paneer Butter Masala,Non-Veg,109,3,347,4.2,47
+1278,12-01-2024 13:00,Bangalore,West Bengal,Spice Hub,Fish Curry,Veg,102,3,245,4.6,25
+1279,12-01-2024 14:00,Bangalore,Delhi,Tandoori Treat,Veg Pizza,Veg,158,3,205,4.5,39
+1280,12-01-2024 15:00,Bangalore,Delhi,Spice Hub,Fish Curry,Non-Veg,175,1,362,5,24
+1281,12-01-2024 16:00,Delhi,Maharashtra,Royal Kitchen,Veg Burger,Non-Veg,148,4,395,3.8,42
+1282,12-01-2024 17:00,Kolkata,Delhi,Tandoori Treat,Paneer Butter Masala,Non-Veg,158,1,169,4.5,28
+1283,12-01-2024 18:00,Mumbai,West Bengal,Tandoori Treat,Masala Dosa,Non-Veg,130,4,292,4.4,48
+1284,12-01-2024 19:00,Hyderabad,Delhi,Spice Hub,Paneer Butter Masala,Non-Veg,192,2,167,4.9,35
+1285,12-01-2024 20:00,Mumbai,West Bengal,Royal Kitchen,Chicken Roll,Veg,168,2,404,3.7,41
+1286,12-01-2024 21:00,Kolkata,Maharashtra,Urban Bites,Paneer Butter Masala,Veg,161,2,151,4.6,27
+1287,12-01-2024 22:00,Hyderabad,Karnataka,Royal Kitchen,Fish Curry,Non-Veg,151,4,469,4.4,39
+1288,12-01-2024 23:00,Kolkata,Delhi,Food Corner,Chicken Roll,Veg,188,3,462,3.9,33
+1289,13-01-2024 00:00,Bangalore,Karnataka,Urban Bites,Chicken Roll,Veg,140,3,384,4.2,58
+1290,13-01-2024 01:00,Hyderabad,West Bengal,Tandoori Treat,Chicken Roll,Veg,130,1,433,4,56
+1291,13-01-2024 02:00,Bangalore,Delhi,Urban Bites,Masala Dosa,Non-Veg,184,1,108,4.4,53
+1292,13-01-2024 03:00,Mumbai,Telangana,Tandoori Treat,Paneer Butter Masala,Veg,183,2,350,4.8,30
+1293,13-01-2024 04:00,Mumbai,Karnataka,Tandoori Treat,Fish Curry,Veg,121,1,431,4.4,59
+1294,13-01-2024 05:00,Hyderabad,Delhi,Urban Bites,Paneer Butter Masala,Veg,103,4,397,4.4,52
+1295,13-01-2024 06:00,Hyderabad,Karnataka,Tandoori Treat,Masala Dosa,Non-Veg,112,4,283,4.3,50
+1296,13-01-2024 07:00,Kolkata,Delhi,Tandoori Treat,Veg Burger,Veg,144,1,278,3.6,53
+1297,13-01-2024 08:00,Kolkata,Maharashtra,Food Corner,Chicken Biryani,Veg,141,1,297,3.8,26
+1298,13-01-2024 09:00,Bangalore,Karnataka,Royal Kitchen,Fish Curry,Non-Veg,148,1,227,4.2,42
+1299,13-01-2024 10:00,Hyderabad,Telangana,Royal Kitchen,Fish Curry,Non-Veg,119,1,119,4,26
+1300,13-01-2024 11:00,Mumbai,Telangana,Food Corner,Paneer Butter Masala,Veg,176,2,427,3.8,44
+1301,13-01-2024 12:00,Kolkata,West Bengal,Urban Bites,Chicken Biryani,Veg,180,2,164,4.3,22
+1302,13-01-2024 13:00,Kolkata,Delhi,Spice Hub,Veg Pizza,Non-Veg,153,1,281,4,57
+1303,13-01-2024 14:00,Mumbai,Karnataka,Spice Hub,Veg Pizza,Non-Veg,135,4,340,3.9,39
+1304,13-01-2024 15:00,Kolkata,West Bengal,Spice Hub,Masala Dosa,Non-Veg,196,2,468,4.2,53
+1305,13-01-2024 16:00,Bangalore,Karnataka,Food Corner,Veg Pizza,Non-Veg,100,4,123,3.7,49
+1306,13-01-2024 17:00,Hyderabad,Delhi,Food Corner,Fish Curry,Non-Veg,114,3,483,4.9,36
+1307,13-01-2024 18:00,Mumbai,Telangana,Tandoori Treat,Veg Pizza,Non-Veg,176,4,182,4.8,29
+1308,13-01-2024 19:00,Hyderabad,Maharashtra,Spice Hub,Veg Burger,Non-Veg,116,1,418,4.6,54
+1309,13-01-2024 20:00,Kolkata,Telangana,Urban Bites,Veg Burger,Veg,123,3,284,3.7,39
+1310,13-01-2024 21:00,Kolkata,West Bengal,Urban Bites,Veg Burger,Non-Veg,157,2,415,4.7,37
+1311,13-01-2024 22:00,Mumbai,Maharashtra,Spice Hub,Veg Pizza,Non-Veg,171,2,198,4.7,46
+1312,13-01-2024 23:00,Bangalore,West Bengal,Spice Hub,Masala Dosa,Veg,190,3,161,4.7,55
+1313,14-01-2024 00:00,Delhi,Delhi,Spice Hub,Chicken Roll,Non-Veg,122,4,385,3.7,42
+1314,14-01-2024 01:00,Mumbai,Maharashtra,Food Corner,Chicken Roll,Non-Veg,145,2,121,4.5,51
+1315,14-01-2024 02:00,Delhi,West Bengal,Food Corner,Chicken Biryani,Veg,171,1,311,4.8,29
+1316,14-01-2024 03:00,Delhi,Delhi,Food Corner,Chicken Roll,Non-Veg,107,3,225,4.4,30
+1317,14-01-2024 04:00,Bangalore,Telangana,Royal Kitchen,Chicken Roll,Veg,158,1,141,4.5,57
+1318,14-01-2024 05:00,Delhi,Delhi,Urban Bites,Veg Burger,Veg,189,3,197,4.2,25
+1319,14-01-2024 06:00,Delhi,Karnataka,Urban Bites,Veg Burger,Veg,158,2,130,4.3,53
+1320,14-01-2024 07:00,Bangalore,Delhi,Tandoori Treat,Veg Pizza,Veg,112,4,257,3.6,55
+1321,14-01-2024 08:00,Delhi,Delhi,Food Corner,Chicken Biryani,Non-Veg,138,3,211,4.5,56
+1322,14-01-2024 09:00,Delhi,Karnataka,Royal Kitchen,Paneer Butter Masala,Veg,127,3,346,3.6,36
+1323,14-01-2024 10:00,Delhi,West Bengal,Royal Kitchen,Fish Curry,Veg,188,1,221,4.2,59
+1324,14-01-2024 11:00,Mumbai,West Bengal,Urban Bites,Chicken Biryani,Non-Veg,160,2,372,3.9,59
+1325,14-01-2024 12:00,Mumbai,Delhi,Food Corner,Chicken Biryani,Veg,115,1,393,4.3,31
+1326,14-01-2024 13:00,Mumbai,Karnataka,Tandoori Treat,Masala Dosa,Veg,101,2,497,3.7,40
+1327,14-01-2024 14:00,Bangalore,Karnataka,Food Corner,Veg Pizza,Veg,181,1,306,4.5,59
+1328,14-01-2024 15:00,Kolkata,Telangana,Spice Hub,Masala Dosa,Veg,116,3,209,4.7,38
+1329,14-01-2024 16:00,Delhi,West Bengal,Food Corner,Chicken Biryani,Non-Veg,129,1,377,3.7,22
+1330,14-01-2024 17:00,Delhi,Maharashtra,Spice Hub,Chicken Biryani,Veg,112,4,155,3.7,37
+1331,14-01-2024 18:00,Bangalore,West Bengal,Spice Hub,Chicken Biryani,Non-Veg,195,2,474,3.7,38
+1332,14-01-2024 19:00,Delhi,West Bengal,Tandoori Treat,Chicken Roll,Non-Veg,192,2,156,4.8,25
+1333,14-01-2024 20:00,Mumbai,Telangana,Urban Bites,Fish Curry,Veg,193,3,390,4.3,35
+1334,14-01-2024 21:00,Kolkata,Maharashtra,Food Corner,Fish Curry,Veg,181,2,213,4.2,27
+1335,14-01-2024 22:00,Hyderabad,Telangana,Spice Hub,Masala Dosa,Veg,112,4,480,3.7,37
+1336,14-01-2024 23:00,Delhi,Maharashtra,Food Corner,Chicken Biryani,Veg,142,1,484,4.5,58
+1337,15-01-2024 00:00,Mumbai,Delhi,Urban Bites,Fish Curry,Non-Veg,184,3,407,4.8,31
+1338,15-01-2024 01:00,Hyderabad,Maharashtra,Urban Bites,Veg Burger,Non-Veg,193,4,440,4.7,29
+1339,15-01-2024 02:00,Kolkata,Telangana,Royal Kitchen,Fish Curry,Non-Veg,120,2,297,4.4,26
+1340,15-01-2024 03:00,Hyderabad,West Bengal,Urban Bites,Veg Pizza,Veg,154,2,420,3.6,20
+1341,15-01-2024 04:00,Mumbai,Maharashtra,Tandoori Treat,Veg Pizza,Non-Veg,180,4,278,3.7,55
+1342,15-01-2024 05:00,Hyderabad,Maharashtra,Spice Hub,Fish Curry,Veg,139,1,484,3.6,40
+1343,15-01-2024 06:00,Bangalore,Karnataka,Royal Kitchen,Veg Burger,Veg,182,1,318,3.9,56
+1344,15-01-2024 07:00,Hyderabad,West Bengal,Tandoori Treat,Veg Pizza,Veg,114,3,376,3.7,43
+1345,15-01-2024 08:00,Delhi,Delhi,Food Corner,Chicken Roll,Veg,172,2,115,3.9,44
+1346,15-01-2024 09:00,Delhi,Telangana,Spice Hub,Fish Curry,Veg,151,4,478,4.1,26
+1347,15-01-2024 10:00,Bangalore,Delhi,Urban Bites,Chicken Roll,Non-Veg,173,1,160,4.9,36
+1348,15-01-2024 11:00,Mumbai,West Bengal,Spice Hub,Fish Curry,Non-Veg,194,3,153,4.4,48
+1349,15-01-2024 12:00,Delhi,Maharashtra,Food Corner,Paneer Butter Masala,Veg,152,2,267,4.8,49
+1350,15-01-2024 13:00,Kolkata,Maharashtra,Royal Kitchen,Paneer Butter Masala,Non-Veg,186,2,125,4.6,26
+1351,15-01-2024 14:00,Delhi,West Bengal,Royal Kitchen,Paneer Butter Masala,Veg,151,3,435,3.7,52
+1352,15-01-2024 15:00,Delhi,Maharashtra,Royal Kitchen,Veg Pizza,Veg,129,3,164,4.6,26
+1353,15-01-2024 16:00,Mumbai,Maharashtra,Urban Bites,Chicken Roll,Veg,132,1,199,3.9,43
+1354,15-01-2024 17:00,Hyderabad,Maharashtra,Tandoori Treat,Chicken Roll,Non-Veg,156,4,173,4.5,30
+1355,15-01-2024 18:00,Delhi,Telangana,Tandoori Treat,Chicken Roll,Veg,151,2,291,4,28
+1356,15-01-2024 19:00,Bangalore,Telangana,Spice Hub,Veg Burger,Veg,108,4,270,5,31
+1357,15-01-2024 20:00,Hyderabad,Karnataka,Urban Bites,Chicken Roll,Non-Veg,153,2,372,3.9,54
+1358,15-01-2024 21:00,Kolkata,Delhi,Royal Kitchen,Veg Burger,Non-Veg,100,2,476,3.9,23
+1359,15-01-2024 22:00,Mumbai,West Bengal,Royal Kitchen,Paneer Butter Masala,Non-Veg,143,4,286,4.9,55
+1360,15-01-2024 23:00,Kolkata,West Bengal,Food Corner,Paneer Butter Masala,Veg,198,3,122,3.5,47
+1361,16-01-2024 00:00,Hyderabad,West Bengal,Food Corner,Veg Pizza,Veg,174,1,490,4.5,32
+1362,16-01-2024 01:00,Hyderabad,Karnataka,Royal Kitchen,Fish Curry,Non-Veg,197,2,280,4.6,42
+1363,16-01-2024 02:00,Hyderabad,Telangana,Royal Kitchen,Paneer Butter Masala,Veg,179,3,426,4.8,38
+1364,16-01-2024 03:00,Kolkata,Karnataka,Urban Bites,Fish Curry,Non-Veg,108,2,207,5,56
+1365,16-01-2024 04:00,Hyderabad,West Bengal,Tandoori Treat,Fish Curry,Non-Veg,131,1,434,5,58
+1366,16-01-2024 05:00,Kolkata,Delhi,Food Corner,Veg Pizza,Veg,114,2,261,3.6,43
+1367,16-01-2024 06:00,Hyderabad,Maharashtra,Tandoori Treat,Chicken Biryani,Veg,111,1,401,4.7,35
+1368,16-01-2024 07:00,Bangalore,Telangana,Urban Bites,Chicken Biryani,Non-Veg,196,1,305,4.5,52
+1369,16-01-2024 08:00,Hyderabad,Telangana,Royal Kitchen,Masala Dosa,Non-Veg,177,2,177,4.5,31
+1370,16-01-2024 09:00,Kolkata,Karnataka,Tandoori Treat,Veg Pizza,Non-Veg,156,2,115,3.7,53
+1371,16-01-2024 10:00,Delhi,Telangana,Royal Kitchen,Masala Dosa,Non-Veg,107,1,426,4.5,26
+1372,16-01-2024 11:00,Hyderabad,West Bengal,Royal Kitchen,Masala Dosa,Veg,171,3,195,5,30
+1373,16-01-2024 12:00,Delhi,West Bengal,Spice Hub,Chicken Biryani,Non-Veg,126,4,246,4.9,50
+1374,16-01-2024 13:00,Bangalore,Karnataka,Tandoori Treat,Veg Pizza,Non-Veg,161,1,101,4.2,48
+1375,16-01-2024 14:00,Mumbai,West Bengal,Tandoori Treat,Chicken Biryani,Non-Veg,111,2,109,3.6,32
+1376,16-01-2024 15:00,Bangalore,Delhi,Royal Kitchen,Masala Dosa,Veg,164,2,224,4,50
+1377,16-01-2024 16:00,Hyderabad,Karnataka,Urban Bites,Veg Pizza,Veg,141,3,180,4.7,21
+1378,16-01-2024 17:00,Delhi,Delhi,Spice Hub,Masala Dosa,Non-Veg,161,4,239,4.6,58
+1379,16-01-2024 18:00,Delhi,Maharashtra,Royal Kitchen,Chicken Roll,Veg,110,1,425,4.2,34
+1380,16-01-2024 19:00,Kolkata,Delhi,Food Corner,Fish Curry,Veg,142,1,249,3.6,30
+1381,16-01-2024 20:00,Delhi,Maharashtra,Food Corner,Veg Pizza,Veg,194,4,387,4.1,53
+1382,16-01-2024 21:00,Kolkata,Maharashtra,Spice Hub,Veg Pizza,Non-Veg,116,1,460,4.2,58
+1383,16-01-2024 22:00,Mumbai,Delhi,Urban Bites,Fish Curry,Non-Veg,196,4,439,4.9,23
+1384,16-01-2024 23:00,Hyderabad,Karnataka,Royal Kitchen,Masala Dosa,Veg,131,2,228,4.5,30
+1385,17-01-2024 00:00,Kolkata,West Bengal,Tandoori Treat,Chicken Roll,Non-Veg,192,4,338,4,48
+1386,17-01-2024 01:00,Mumbai,West Bengal,Spice Hub,Veg Burger,Non-Veg,184,1,157,4.3,21
+1387,17-01-2024 02:00,Delhi,Maharashtra,Urban Bites,Fish Curry,Veg,184,4,297,3.6,35
+1388,17-01-2024 03:00,Delhi,Maharashtra,Tandoori Treat,Chicken Biryani,Veg,139,3,310,5,58
+1389,17-01-2024 04:00,Mumbai,Karnataka,Food Corner,Masala Dosa,Non-Veg,122,2,489,4,32
+1390,17-01-2024 05:00,Delhi,Telangana,Food Corner,Fish Curry,Veg,155,2,144,4.2,56
+1391,17-01-2024 06:00,Mumbai,Delhi,Tandoori Treat,Fish Curry,Non-Veg,105,4,196,4,36
+1392,17-01-2024 07:00,Kolkata,Maharashtra,Spice Hub,Veg Pizza,Non-Veg,185,1,378,4.5,40
+1393,17-01-2024 08:00,Kolkata,West Bengal,Food Corner,Chicken Biryani,Veg,149,3,122,4.5,38
+1394,17-01-2024 09:00,Mumbai,Karnataka,Royal Kitchen,Chicken Biryani,Non-Veg,136,2,490,4.6,26
+1395,17-01-2024 10:00,Kolkata,Delhi,Tandoori Treat,Chicken Biryani,Non-Veg,163,2,434,3.9,57
+1396,17-01-2024 11:00,Kolkata,Karnataka,Tandoori Treat,Fish Curry,Veg,153,1,143,4,27
+1397,17-01-2024 12:00,Kolkata,Delhi,Food Corner,Veg Burger,Veg,171,1,126,3.7,32
+1398,17-01-2024 13:00,Bangalore,Delhi,Spice Hub,Paneer Butter Masala,Veg,148,3,381,4.5,56
+1399,17-01-2024 14:00,Hyderabad,Maharashtra,Royal Kitchen,Masala Dosa,Non-Veg,198,4,196,3.6,21
+1400,17-01-2024 15:00,Delhi,Karnataka,Spice Hub,Paneer Butter Masala,Veg,110,1,135,4.4,30
+1401,17-01-2024 16:00,Bangalore,Karnataka,Urban Bites,Fish Curry,Veg,187,4,208,4.8,43
+1402,17-01-2024 17:00,Kolkata,West Bengal,Urban Bites,Paneer Butter Masala,Veg,148,3,154,4.8,25
+1403,17-01-2024 18:00,Mumbai,West Bengal,Food Corner,Fish Curry,Veg,120,4,291,4.2,45
+1404,17-01-2024 19:00,Kolkata,Maharashtra,Food Corner,Paneer Butter Masala,Non-Veg,165,2,318,4.2,26
+1405,17-01-2024 20:00,Hyderabad,Maharashtra,Food Corner,Chicken Biryani,Non-Veg,162,4,284,3.6,58
+1406,17-01-2024 21:00,Kolkata,Telangana,Urban Bites,Chicken Roll,Veg,182,3,168,4.5,38
+1407,17-01-2024 22:00,Mumbai,West Bengal,Spice Hub,Chicken Biryani,Non-Veg,127,3,416,4.7,25
+1408,17-01-2024 23:00,Hyderabad,Delhi,Spice Hub,Chicken Biryani,Veg,116,3,229,3.9,48
+1409,18-01-2024 00:00,Kolkata,Karnataka,Food Corner,Veg Pizza,Veg,105,4,154,4.1,58
+1410,18-01-2024 01:00,Hyderabad,Maharashtra,Royal Kitchen,Veg Pizza,Non-Veg,118,2,477,4.8,21
+1411,18-01-2024 02:00,Delhi,Karnataka,Spice Hub,Paneer Butter Masala,Non-Veg,155,1,196,4.8,38
+1412,18-01-2024 03:00,Delhi,Karnataka,Urban Bites,Fish Curry,Veg,127,2,435,3.9,23
+1413,18-01-2024 04:00,Kolkata,Telangana,Tandoori Treat,Chicken Biryani,Veg,165,4,186,4.3,25
+1414,18-01-2024 05:00,Hyderabad,West Bengal,Tandoori Treat,Paneer Butter Masala,Non-Veg,137,4,393,3.8,56
+1415,18-01-2024 06:00,Mumbai,Maharashtra,Tandoori Treat,Veg Pizza,Veg,136,1,218,3.7,47
+1416,18-01-2024 07:00,Kolkata,Karnataka,Royal Kitchen,Chicken Roll,Non-Veg,167,4,307,4.9,49
+1417,18-01-2024 08:00,Delhi,Maharashtra,Food Corner,Masala Dosa,Veg,185,3,433,4.7,26
+1418,18-01-2024 09:00,Delhi,Delhi,Urban Bites,Paneer Butter Masala,Veg,189,3,253,4.6,28
+1419,18-01-2024 10:00,Kolkata,Telangana,Royal Kitchen,Chicken Roll,Non-Veg,148,3,134,3.6,44
+1420,18-01-2024 11:00,Hyderabad,Delhi,Urban Bites,Masala Dosa,Non-Veg,142,3,178,4.8,52
+1421,18-01-2024 12:00,Delhi,Maharashtra,Urban Bites,Veg Burger,Non-Veg,135,3,166,4.2,20
+1422,18-01-2024 13:00,Hyderabad,Maharashtra,Food Corner,Paneer Butter Masala,Non-Veg,157,4,442,4,25
+1423,18-01-2024 14:00,Delhi,West Bengal,Tandoori Treat,Paneer Butter Masala,Non-Veg,112,1,133,4.3,37
+1424,18-01-2024 15:00,Delhi,Karnataka,Food Corner,Veg Burger,Non-Veg,151,1,196,3.6,29
+1425,18-01-2024 16:00,Bangalore,Karnataka,Royal Kitchen,Veg Burger,Non-Veg,157,3,268,4.6,47
+1426,18-01-2024 17:00,Delhi,Delhi,Royal Kitchen,Paneer Butter Masala,Veg,131,4,268,4.4,30
+1427,18-01-2024 18:00,Mumbai,Telangana,Royal Kitchen,Veg Burger,Veg,180,2,250,3.8,52
+1428,18-01-2024 19:00,Kolkata,Karnataka,Food Corner,Chicken Biryani,Veg,199,2,170,3.8,20
+1429,18-01-2024 20:00,Kolkata,West Bengal,Urban Bites,Masala Dosa,Non-Veg,159,4,102,3.8,32
+1430,18-01-2024 21:00,Hyderabad,Delhi,Urban Bites,Masala Dosa,Non-Veg,182,3,413,3.6,56
+1431,18-01-2024 22:00,Delhi,Delhi,Spice Hub,Masala Dosa,Non-Veg,157,1,131,4.4,39
+1432,18-01-2024 23:00,Mumbai,West Bengal,Royal Kitchen,Chicken Biryani,Veg,198,4,386,4.8,20
+1433,19-01-2024 00:00,Hyderabad,Telangana,Urban Bites,Fish Curry,Non-Veg,155,2,181,3.5,22
+1434,19-01-2024 01:00,Bangalore,West Bengal,Spice Hub,Veg Burger,Non-Veg,127,2,142,3.6,37
+1435,19-01-2024 02:00,Hyderabad,Telangana,Urban Bites,Chicken Roll,Veg,100,2,490,4.4,33
+1436,19-01-2024 03:00,Hyderabad,West Bengal,Royal Kitchen,Veg Burger,Non-Veg,141,3,204,4.7,50
+1437,19-01-2024 04:00,Delhi,West Bengal,Tandoori Treat,Paneer Butter Masala,Veg,181,2,100,4,46
+1438,19-01-2024 05:00,Bangalore,Maharashtra,Royal Kitchen,Veg Pizza,Veg,147,4,160,4,36
+1439,19-01-2024 06:00,Hyderabad,Delhi,Food Corner,Masala Dosa,Non-Veg,139,4,369,4.4,48
+1440,19-01-2024 07:00,Mumbai,West Bengal,Urban Bites,Veg Burger,Non-Veg,196,2,279,3.9,55
+1441,19-01-2024 08:00,Mumbai,West Bengal,Urban Bites,Chicken Roll,Non-Veg,162,4,323,3.5,56
+1442,19-01-2024 09:00,Kolkata,Karnataka,Food Corner,Paneer Butter Masala,Veg,175,2,105,4.6,45
+1443,19-01-2024 10:00,Bangalore,Delhi,Food Corner,Chicken Biryani,Veg,171,2,202,4.4,36
+1444,19-01-2024 11:00,Bangalore,Karnataka,Tandoori Treat,Fish Curry,Veg,187,1,109,4.4,41
+1445,19-01-2024 12:00,Kolkata,Delhi,Urban Bites,Chicken Biryani,Non-Veg,179,3,170,4.6,44
+1446,19-01-2024 13:00,Hyderabad,Karnataka,Urban Bites,Chicken Roll,Non-Veg,103,3,189,4.5,21
+1447,19-01-2024 14:00,Bangalore,West Bengal,Tandoori Treat,Paneer Butter Masala,Non-Veg,137,1,325,3.8,41
+1448,19-01-2024 15:00,Mumbai,West Bengal,Spice Hub,Masala Dosa,Non-Veg,126,1,257,4,24
+1449,19-01-2024 16:00,Mumbai,Maharashtra,Tandoori Treat,Veg Burger,Veg,108,3,327,3.7,23
+1450,19-01-2024 17:00,Delhi,Karnataka,Royal Kitchen,Paneer Butter Masala,Veg,115,2,225,3.7,55
+1451,19-01-2024 18:00,Bangalore,Telangana,Urban Bites,Fish Curry,Veg,155,2,308,4.5,25
+1452,19-01-2024 19:00,Hyderabad,Maharashtra,Food Corner,Chicken Biryani,Veg,175,3,196,4.8,40
+1453,19-01-2024 20:00,Kolkata,Karnataka,Royal Kitchen,Fish Curry,Non-Veg,130,2,173,4.9,32
+1454,19-01-2024 21:00,Kolkata,Karnataka,Urban Bites,Fish Curry,Non-Veg,187,1,214,4.4,56
+1455,19-01-2024 22:00,Hyderabad,Maharashtra,Tandoori Treat,Chicken Roll,Non-Veg,113,2,290,3.8,44
+1456,19-01-2024 23:00,Delhi,West Bengal,Royal Kitchen,Chicken Roll,Veg,124,2,269,3.7,45
+1457,20-01-2024 00:00,Kolkata,Karnataka,Urban Bites,Veg Burger,Veg,133,4,406,4.7,58
+1458,20-01-2024 01:00,Bangalore,West Bengal,Spice Hub,Chicken Roll,Non-Veg,166,4,303,4.4,39
+1459,20-01-2024 02:00,Delhi,Maharashtra,Spice Hub,Chicken Roll,Non-Veg,123,4,155,4.4,52
+1460,20-01-2024 03:00,Bangalore,West Bengal,Food Corner,Paneer Butter Masala,Veg,172,2,307,4.7,33
+1461,20-01-2024 04:00,Mumbai,Delhi,Urban Bites,Masala Dosa,Non-Veg,125,3,140,4.6,55
+1462,20-01-2024 05:00,Delhi,Telangana,Spice Hub,Veg Burger,Veg,119,1,131,4.8,36
+1463,20-01-2024 06:00,Kolkata,Karnataka,Tandoori Treat,Paneer Butter Masala,Veg,163,2,114,3.6,40
+1464,20-01-2024 07:00,Delhi,Telangana,Urban Bites,Masala Dosa,Veg,109,3,161,4.6,35
+1465,20-01-2024 08:00,Delhi,West Bengal,Tandoori Treat,Fish Curry,Non-Veg,182,2,254,4.8,35
+1466,20-01-2024 09:00,Delhi,Karnataka,Tandoori Treat,Paneer Butter Masala,Non-Veg,166,1,383,3.9,39
+1467,20-01-2024 10:00,Delhi,West Bengal,Spice Hub,Veg Pizza,Veg,123,2,308,4.5,48
+1468,20-01-2024 11:00,Bangalore,Delhi,Urban Bites,Paneer Butter Masala,Non-Veg,104,1,419,4,47
+1469,20-01-2024 12:00,Mumbai,Maharashtra,Royal Kitchen,Chicken Roll,Veg,166,2,286,4.9,27
+1470,20-01-2024 13:00,Hyderabad,Karnataka,Spice Hub,Masala Dosa,Veg,157,1,229,3.6,43
+1471,20-01-2024 14:00,Delhi,Delhi,Spice Hub,Veg Burger,Veg,126,2,226,4.4,22
+1472,20-01-2024 15:00,Kolkata,Delhi,Urban Bites,Veg Burger,Veg,179,1,391,3.7,44
+1473,20-01-2024 16:00,Delhi,Karnataka,Urban Bites,Masala Dosa,Non-Veg,114,4,213,4.6,38
+1474,20-01-2024 17:00,Kolkata,West Bengal,Tandoori Treat,Chicken Roll,Veg,134,2,298,3.8,52
+1475,20-01-2024 18:00,Bangalore,Delhi,Urban Bites,Chicken Biryani,Veg,175,2,112,3.9,21
+1476,20-01-2024 19:00,Kolkata,Telangana,Tandoori Treat,Paneer Butter Masala,Non-Veg,152,3,370,4.2,34
+1477,20-01-2024 20:00,Hyderabad,Delhi,Spice Hub,Chicken Roll,Veg,143,3,188,4.9,41
+1478,20-01-2024 21:00,Mumbai,West Bengal,Food Corner,Veg Pizza,Veg,125,1,314,3.8,29
+1479,20-01-2024 22:00,Kolkata,West Bengal,Royal Kitchen,Fish Curry,Non-Veg,146,2,377,3.7,37
+1480,20-01-2024 23:00,Kolkata,Telangana,Spice Hub,Masala Dosa,Non-Veg,133,1,302,4.6,41
+1481,21-01-2024 00:00,Mumbai,Delhi,Urban Bites,Paneer Butter Masala,Non-Veg,186,4,173,4.3,46
+1482,21-01-2024 01:00,Hyderabad,West Bengal,Royal Kitchen,Veg Burger,Veg,194,3,124,4.9,32
+1483,21-01-2024 02:00,Delhi,Karnataka,Food Corner,Fish Curry,Non-Veg,149,1,200,3.7,52
+1484,21-01-2024 03:00,Kolkata,Maharashtra,Food Corner,Chicken Biryani,Non-Veg,183,1,275,4.5,24
+1485,21-01-2024 04:00,Mumbai,Maharashtra,Tandoori Treat,Veg Pizza,Veg,111,3,216,3.8,45
+1486,21-01-2024 05:00,Bangalore,Maharashtra,Royal Kitchen,Veg Burger,Veg,186,2,265,3.7,32
+1487,21-01-2024 06:00,Mumbai,Delhi,Tandoori Treat,Masala Dosa,Veg,103,1,140,4.5,46
+1488,21-01-2024 07:00,Bangalore,Telangana,Spice Hub,Paneer Butter Masala,Veg,186,3,443,4.4,33
+1489,21-01-2024 08:00,Hyderabad,West Bengal,Royal Kitchen,Masala Dosa,Veg,147,2,465,4.6,43
+1490,21-01-2024 09:00,Delhi,Karnataka,Spice Hub,Fish Curry,Non-Veg,154,4,219,4,22
+1491,21-01-2024 10:00,Mumbai,Karnataka,Tandoori Treat,Paneer Butter Masala,Non-Veg,100,3,196,4.2,49
+1492,21-01-2024 11:00,Kolkata,Delhi,Royal Kitchen,Chicken Roll,Non-Veg,188,1,244,4.1,54
+1493,21-01-2024 12:00,Hyderabad,Maharashtra,Tandoori Treat,Chicken Biryani,Veg,165,4,315,5,33
+1494,21-01-2024 13:00,Mumbai,Delhi,Royal Kitchen,Chicken Roll,Veg,129,2,328,3.9,31
+1495,21-01-2024 14:00,Kolkata,Telangana,Tandoori Treat,Chicken Roll,Veg,102,2,412,3.9,47
+1496,21-01-2024 15:00,Mumbai,Telangana,Food Corner,Masala Dosa,Non-Veg,120,3,229,4,48
+1497,21-01-2024 16:00,Bangalore,West Bengal,Tandoori Treat,Fish Curry,Non-Veg,188,3,451,4.3,36
+1498,21-01-2024 17:00,Mumbai,West Bengal,Food Corner,Chicken Biryani,Veg,183,3,476,3.9,59
+1499,21-01-2024 18:00,Mumbai,Telangana,Tandoori Treat,Paneer Butter Masala,Non-Veg,148,2,417,4.9,40
+1500,21-01-2024 19:00,Mumbai,Telangana,Royal Kitchen,Paneer Butter Masala,Veg,185,4,236,3.9,42
+1501,21-01-2024 20:00,Hyderabad,Telangana,Royal Kitchen,Veg Pizza,Non-Veg,184,2,423,4.8,39
+1502,21-01-2024 21:00,Mumbai,Delhi,Royal Kitchen,Veg Burger,Non-Veg,161,1,436,3.7,30
+1503,21-01-2024 22:00,Kolkata,Telangana,Urban Bites,Veg Pizza,Non-Veg,196,2,372,4.5,53
+1504,21-01-2024 23:00,Bangalore,Karnataka,Spice Hub,Veg Pizza,Veg,137,1,216,4.9,29
+1505,22-01-2024 00:00,Bangalore,Maharashtra,Royal Kitchen,Paneer Butter Masala,Non-Veg,114,4,405,3.8,29
+1506,22-01-2024 01:00,Mumbai,Telangana,Food Corner,Masala Dosa,Non-Veg,151,3,467,5,25
+1507,22-01-2024 02:00,Hyderabad,Maharashtra,Royal Kitchen,Chicken Roll,Veg,178,3,193,4.2,55
+1508,22-01-2024 03:00,Hyderabad,Delhi,Urban Bites,Fish Curry,Non-Veg,145,2,267,4.9,43
+1509,22-01-2024 04:00,Kolkata,Maharashtra,Food Corner,Chicken Roll,Veg,124,3,302,4.5,31
+1510,22-01-2024 05:00,Mumbai,Delhi,Urban Bites,Chicken Roll,Veg,120,4,440,4,42
+1511,22-01-2024 06:00,Bangalore,Karnataka,Food Corner,Chicken Biryani,Veg,187,3,248,3.8,46
+1512,22-01-2024 07:00,Hyderabad,Delhi,Tandoori Treat,Paneer Butter Masala,Veg,104,2,282,4,56
+1513,22-01-2024 08:00,Mumbai,Delhi,Spice Hub,Fish Curry,Veg,169,4,251,3.6,25
+1514,22-01-2024 09:00,Hyderabad,West Bengal,Spice Hub,Masala Dosa,Non-Veg,146,1,173,3.7,20
+1515,22-01-2024 10:00,Hyderabad,Telangana,Urban Bites,Chicken Biryani,Veg,186,2,464,3.7,25
+1516,22-01-2024 11:00,Bangalore,Telangana,Spice Hub,Veg Burger,Veg,167,1,373,4.1,41
+1517,22-01-2024 12:00,Delhi,Karnataka,Urban Bites,Masala Dosa,Veg,190,4,141,4.7,43
+1518,22-01-2024 13:00,Kolkata,Karnataka,Urban Bites,Veg Pizza,Veg,117,2,311,3.7,44
+1519,22-01-2024 14:00,Kolkata,Telangana,Urban Bites,Masala Dosa,Non-Veg,120,2,200,3.7,34
+1520,22-01-2024 15:00,Bangalore,West Bengal,Spice Hub,Masala Dosa,Veg,191,4,144,4.5,45
+1521,22-01-2024 16:00,Hyderabad,Telangana,Urban Bites,Chicken Roll,Non-Veg,198,3,181,3.8,27
+1522,22-01-2024 17:00,Mumbai,West Bengal,Spice Hub,Masala Dosa,Veg,185,2,116,3.6,43
+1523,22-01-2024 18:00,Hyderabad,Karnataka,Urban Bites,Veg Pizza,Non-Veg,122,2,172,3.8,57
+1524,22-01-2024 19:00,Bangalore,Maharashtra,Royal Kitchen,Veg Pizza,Veg,163,1,113,4.9,25
+1525,22-01-2024 20:00,Kolkata,Karnataka,Urban Bites,Paneer Butter Masala,Veg,166,3,256,4.7,54
+1526,22-01-2024 21:00,Hyderabad,Karnataka,Food Corner,Masala Dosa,Non-Veg,139,1,322,4,20
+1527,22-01-2024 22:00,Kolkata,Delhi,Urban Bites,Chicken Roll,Veg,109,1,231,4.5,55
+1528,22-01-2024 23:00,Mumbai,Delhi,Tandoori Treat,Masala Dosa,Non-Veg,188,3,437,4.3,31
+1529,23-01-2024 00:00,Kolkata,Delhi,Urban Bites,Veg Burger,Veg,151,3,475,4.5,57
+1530,23-01-2024 01:00,Kolkata,Delhi,Food Corner,Veg Burger,Non-Veg,171,4,475,4.5,30
+1531,23-01-2024 02:00,Delhi,West Bengal,Food Corner,Chicken Roll,Veg,174,3,146,4.4,31
+1532,23-01-2024 03:00,Delhi,Telangana,Spice Hub,Paneer Butter Masala,Veg,160,2,206,3.9,58
+1533,23-01-2024 04:00,Delhi,Maharashtra,Royal Kitchen,Paneer Butter Masala,Non-Veg,163,3,207,3.6,26
+1534,23-01-2024 05:00,Kolkata,Karnataka,Urban Bites,Veg Pizza,Veg,104,4,364,4.2,30
+1535,23-01-2024 06:00,Bangalore,West Bengal,Spice Hub,Veg Pizza,Veg,152,4,304,4.8,55
+1536,23-01-2024 07:00,Kolkata,Maharashtra,Royal Kitchen,Chicken Biryani,Veg,154,4,178,4.4,50
+1537,23-01-2024 08:00,Bangalore,West Bengal,Urban Bites,Chicken Roll,Veg,136,3,254,4.7,52
+1538,23-01-2024 09:00,Bangalore,West Bengal,Tandoori Treat,Masala Dosa,Veg,155,3,370,5,32
+1539,23-01-2024 10:00,Delhi,Karnataka,Urban Bites,Fish Curry,Veg,158,1,346,3.7,37
+1540,23-01-2024 11:00,Hyderabad,Telangana,Food Corner,Chicken Roll,Non-Veg,192,1,118,4.5,43
+1541,23-01-2024 12:00,Mumbai,Delhi,Food Corner,Chicken Biryani,Non-Veg,168,2,445,4.5,28
+1542,23-01-2024 13:00,Delhi,Telangana,Tandoori Treat,Veg Pizza,Non-Veg,172,1,125,5,50
+1543,23-01-2024 14:00,Delhi,Karnataka,Spice Hub,Chicken Roll,Veg,158,2,316,5,29
+1544,23-01-2024 15:00,Hyderabad,Karnataka,Royal Kitchen,Chicken Roll,Non-Veg,101,4,253,4.5,21
+1545,23-01-2024 16:00,Mumbai,Karnataka,Urban Bites,Veg Pizza,Veg,164,1,253,3.9,57
+1546,23-01-2024 17:00,Kolkata,Maharashtra,Food Corner,Chicken Biryani,Veg,159,3,273,4.7,34
+1547,23-01-2024 18:00,Kolkata,Telangana,Spice Hub,Veg Pizza,Veg,150,1,191,3.7,22
+1548,23-01-2024 19:00,Delhi,Telangana,Tandoori Treat,Paneer Butter Masala,Veg,129,2,437,4.7,50
+1549,23-01-2024 20:00,Mumbai,West Bengal,Food Corner,Masala Dosa,Non-Veg,110,1,280,4.9,25
+1550,23-01-2024 21:00,Delhi,West Bengal,Tandoori Treat,Veg Pizza,Veg,191,4,230,4.1,22
+1551,23-01-2024 22:00,Bangalore,West Bengal,Urban Bites,Chicken Biryani,Non-Veg,175,3,397,4.4,30
+1552,23-01-2024 23:00,Delhi,Karnataka,Royal Kitchen,Veg Burger,Veg,138,2,374,4.1,34
+1553,24-01-2024 00:00,Delhi,Telangana,Food Corner,Paneer Butter Masala,Non-Veg,189,3,372,4.2,47
+1554,24-01-2024 01:00,Kolkata,Karnataka,Food Corner,Veg Burger,Non-Veg,176,3,175,4,29
+1555,24-01-2024 02:00,Kolkata,Maharashtra,Urban Bites,Fish Curry,Non-Veg,171,2,276,4.6,57
+1556,24-01-2024 03:00,Kolkata,West Bengal,Spice Hub,Veg Pizza,Non-Veg,162,3,283,4.9,26
+1557,24-01-2024 04:00,Bangalore,Karnataka,Royal Kitchen,Paneer Butter Masala,Non-Veg,163,3,418,4.9,34
+1558,24-01-2024 05:00,Kolkata,Karnataka,Food Corner,Masala Dosa,Non-Veg,160,1,230,3.8,37
+1559,24-01-2024 06:00,Mumbai,Maharashtra,Royal Kitchen,Veg Pizza,Veg,153,3,462,4.8,37
+1560,24-01-2024 07:00,Hyderabad,Delhi,Food Corner,Masala Dosa,Non-Veg,191,3,148,4.6,43
+1561,24-01-2024 08:00,Mumbai,Telangana,Royal Kitchen,Chicken Roll,Veg,193,3,154,3.9,21
+1562,24-01-2024 09:00,Mumbai,Delhi,Tandoori Treat,Veg Burger,Non-Veg,172,3,253,3.6,59
+1563,24-01-2024 10:00,Kolkata,West Bengal,Food Corner,Paneer Butter Masala,Veg,194,2,454,3.9,39
+1564,24-01-2024 11:00,Hyderabad,Karnataka,Royal Kitchen,Masala Dosa,Non-Veg,157,4,299,4.9,53
+1565,24-01-2024 12:00,Hyderabad,Maharashtra,Spice Hub,Chicken Biryani,Non-Veg,184,1,407,4.4,45
+1566,24-01-2024 13:00,Hyderabad,Maharashtra,Tandoori Treat,Masala Dosa,Veg,155,3,455,4.6,26
+1567,24-01-2024 14:00,Bangalore,Telangana,Tandoori Treat,Chicken Biryani,Non-Veg,133,3,472,3.9,57
+1568,24-01-2024 15:00,Kolkata,Delhi,Spice Hub,Veg Pizza,Non-Veg,130,2,217,4.6,49
+1569,24-01-2024 16:00,Hyderabad,Telangana,Royal Kitchen,Paneer Butter Masala,Non-Veg,151,4,362,3.5,24
+1570,24-01-2024 17:00,Bangalore,Karnataka,Urban Bites,Masala Dosa,Veg,188,3,145,4.1,30
+1571,24-01-2024 18:00,Delhi,Telangana,Spice Hub,Fish Curry,Non-Veg,175,2,401,4.4,20
+1572,24-01-2024 19:00,Delhi,Maharashtra,Royal Kitchen,Masala Dosa,Veg,100,1,455,3.7,53
+1573,24-01-2024 20:00,Bangalore,Maharashtra,Spice Hub,Fish Curry,Non-Veg,154,1,499,4.7,20
+1574,24-01-2024 21:00,Bangalore,West Bengal,Spice Hub,Paneer Butter Masala,Non-Veg,121,3,288,3.9,38
+1575,24-01-2024 22:00,Kolkata,West Bengal,Food Corner,Masala Dosa,Veg,139,3,409,4.5,21
+1576,24-01-2024 23:00,Kolkata,Karnataka,Royal Kitchen,Chicken Biryani,Non-Veg,100,4,417,4.1,40
+1577,25-01-2024 00:00,Delhi,Delhi,Urban Bites,Masala Dosa,Non-Veg,164,4,228,4.4,39
+1578,25-01-2024 01:00,Hyderabad,Telangana,Food Corner,Veg Burger,Veg,162,3,148,3.7,42
+1579,25-01-2024 02:00,Delhi,Karnataka,Spice Hub,Veg Pizza,Non-Veg,153,2,124,3.5,40
+1580,25-01-2024 03:00,Hyderabad,West Bengal,Spice Hub,Chicken Roll,Veg,141,4,365,4.9,43
+1581,25-01-2024 04:00,Hyderabad,Telangana,Spice Hub,Chicken Biryani,Veg,120,3,217,3.9,23
+1582,25-01-2024 05:00,Kolkata,West Bengal,Royal Kitchen,Veg Burger,Veg,178,4,243,4.7,31
+1583,25-01-2024 06:00,Mumbai,Telangana,Royal Kitchen,Fish Curry,Non-Veg,180,3,299,5,41
+1584,25-01-2024 07:00,Mumbai,Delhi,Food Corner,Veg Pizza,Veg,121,1,256,3.8,39
+1585,25-01-2024 08:00,Bangalore,Karnataka,Urban Bites,Paneer Butter Masala,Veg,137,3,447,3.9,37
+1586,25-01-2024 09:00,Kolkata,Telangana,Food Corner,Chicken Biryani,Non-Veg,198,1,233,4.5,20
+1587,25-01-2024 10:00,Hyderabad,Maharashtra,Tandoori Treat,Chicken Roll,Veg,179,4,499,4.9,49
+1588,25-01-2024 11:00,Mumbai,Maharashtra,Spice Hub,Veg Pizza,Non-Veg,107,3,247,4.9,52
+1589,25-01-2024 12:00,Hyderabad,Telangana,Spice Hub,Fish Curry,Non-Veg,161,4,435,4.3,43
+1590,25-01-2024 13:00,Mumbai,Telangana,Spice Hub,Chicken Roll,Non-Veg,146,1,170,4.7,33
+1591,25-01-2024 14:00,Mumbai,Telangana,Food Corner,Paneer Butter Masala,Non-Veg,116,3,332,3.7,55
+1592,25-01-2024 15:00,Mumbai,Maharashtra,Food Corner,Paneer Butter Masala,Veg,116,4,433,5,24
+1593,25-01-2024 16:00,Kolkata,Maharashtra,Spice Hub,Fish Curry,Veg,189,1,398,4.9,30
+1594,25-01-2024 17:00,Delhi,Telangana,Food Corner,Chicken Biryani,Veg,112,4,253,3.7,43
+1595,25-01-2024 18:00,Hyderabad,West Bengal,Royal Kitchen,Fish Curry,Veg,116,2,189,3.9,50
+1596,25-01-2024 19:00,Kolkata,West Bengal,Royal Kitchen,Masala Dosa,Veg,137,1,433,3.7,32
+1597,25-01-2024 20:00,Kolkata,Delhi,Food Corner,Paneer Butter Masala,Non-Veg,180,1,298,3.9,35
+1598,25-01-2024 21:00,Kolkata,Karnataka,Spice Hub,Veg Pizza,Veg,177,1,260,4.7,43
+1599,25-01-2024 22:00,Kolkata,West Bengal,Food Corner,Masala Dosa,Veg,144,3,125,4.1,32
+1600,25-01-2024 23:00,Kolkata,Maharashtra,Food Corner,Veg Burger,Veg,105,3,220,3.6,43
+1601,26-01-2024 00:00,Bangalore,West Bengal,Food Corner,Chicken Roll,Non-Veg,134,3,400,4,45
+1602,26-01-2024 01:00,Hyderabad,Delhi,Tandoori Treat,Masala Dosa,Non-Veg,113,2,311,5,21
+1603,26-01-2024 02:00,Kolkata,Delhi,Royal Kitchen,Chicken Roll,Veg,171,2,162,4.4,35
+1604,26-01-2024 03:00,Hyderabad,Karnataka,Urban Bites,Fish Curry,Non-Veg,160,1,167,4.1,57
+1605,26-01-2024 04:00,Bangalore,West Bengal,Urban Bites,Masala Dosa,Veg,114,2,352,3.7,20
+1606,26-01-2024 05:00,Bangalore,Maharashtra,Tandoori Treat,Fish Curry,Veg,153,4,101,5,30
+1607,26-01-2024 06:00,Hyderabad,Maharashtra,Food Corner,Veg Burger,Non-Veg,126,1,497,4.7,54
+1608,26-01-2024 07:00,Mumbai,Telangana,Tandoori Treat,Paneer Butter Masala,Non-Veg,112,1,207,3.9,48
+1609,26-01-2024 08:00,Delhi,Maharashtra,Tandoori Treat,Veg Burger,Veg,130,4,385,3.6,56
+1610,26-01-2024 09:00,Mumbai,Karnataka,Spice Hub,Paneer Butter Masala,Veg,134,1,148,3.6,36
+1611,26-01-2024 10:00,Mumbai,Karnataka,Royal Kitchen,Fish Curry,Non-Veg,159,2,239,3.7,58
+1612,26-01-2024 11:00,Mumbai,Maharashtra,Urban Bites,Paneer Butter Masala,Veg,105,3,317,4.4,47
+1613,26-01-2024 12:00,Kolkata,Maharashtra,Food Corner,Chicken Roll,Non-Veg,168,4,143,4.9,48
+1614,26-01-2024 13:00,Bangalore,Telangana,Urban Bites,Veg Pizza,Veg,185,2,368,4.2,22
+1615,26-01-2024 14:00,Mumbai,Maharashtra,Urban Bites,Veg Burger,Non-Veg,157,4,177,4.8,29
+1616,26-01-2024 15:00,Bangalore,Telangana,Royal Kitchen,Masala Dosa,Veg,148,4,315,4.2,33
+1617,26-01-2024 16:00,Hyderabad,Telangana,Urban Bites,Veg Burger,Veg,122,1,481,4.6,31
+1618,26-01-2024 17:00,Delhi,Maharashtra,Urban Bites,Chicken Roll,Non-Veg,188,1,197,4.6,49
+1619,26-01-2024 18:00,Hyderabad,Delhi,Tandoori Treat,Paneer Butter Masala,Veg,133,2,335,3.8,51
+1620,26-01-2024 19:00,Hyderabad,Delhi,Royal Kitchen,Chicken Roll,Veg,125,4,381,4,51
+1621,26-01-2024 20:00,Kolkata,Telangana,Spice Hub,Chicken Biryani,Non-Veg,146,1,248,4.5,51
+1622,26-01-2024 21:00,Delhi,Maharashtra,Food Corner,Chicken Biryani,Veg,104,1,403,3.6,45
+1623,26-01-2024 22:00,Hyderabad,Delhi,Urban Bites,Masala Dosa,Veg,189,4,165,4,20
+1624,26-01-2024 23:00,Hyderabad,Maharashtra,Food Corner,Chicken Roll,Veg,119,2,333,4.3,21
+1625,27-01-2024 00:00,Delhi,Maharashtra,Spice Hub,Fish Curry,Non-Veg,105,2,186,5,36
+1626,27-01-2024 01:00,Delhi,Maharashtra,Food Corner,Masala Dosa,Non-Veg,169,4,178,4.2,49
+1627,27-01-2024 02:00,Hyderabad,West Bengal,Spice Hub,Fish Curry,Non-Veg,158,2,304,4.7,58
+1628,27-01-2024 03:00,Delhi,Maharashtra,Tandoori Treat,Masala Dosa,Veg,163,1,378,4.1,26
+1629,27-01-2024 04:00,Hyderabad,West Bengal,Urban Bites,Chicken Biryani,Veg,117,4,436,4.7,46
+1630,27-01-2024 05:00,Hyderabad,Telangana,Spice Hub,Masala Dosa,Veg,103,1,353,4.4,28
+1631,27-01-2024 06:00,Kolkata,Delhi,Food Corner,Chicken Biryani,Veg,116,3,403,4.8,41
+1632,27-01-2024 07:00,Mumbai,Delhi,Urban Bites,Paneer Butter Masala,Non-Veg,113,3,479,4.1,53
+1633,27-01-2024 08:00,Hyderabad,Delhi,Tandoori Treat,Fish Curry,Veg,177,2,229,4.4,20
+1634,27-01-2024 09:00,Bangalore,Delhi,Urban Bites,Chicken Roll,Veg,112,3,183,4.4,28
+1635,27-01-2024 10:00,Mumbai,Delhi,Spice Hub,Masala Dosa,Veg,106,1,375,4.1,39
+1636,27-01-2024 11:00,Mumbai,Delhi,Tandoori Treat,Chicken Biryani,Non-Veg,143,3,286,3.7,38
+1637,27-01-2024 12:00,Mumbai,Delhi,Food Corner,Veg Burger,Veg,114,1,145,3.6,55
+1638,27-01-2024 13:00,Kolkata,Telangana,Tandoori Treat,Fish Curry,Veg,118,2,486,3.5,59
+1639,27-01-2024 14:00,Hyderabad,Maharashtra,Tandoori Treat,Masala Dosa,Veg,162,2,282,4.8,23
+1640,27-01-2024 15:00,Kolkata,Karnataka,Royal Kitchen,Veg Pizza,Veg,134,1,367,3.9,28
+1641,27-01-2024 16:00,Hyderabad,West Bengal,Tandoori Treat,Paneer Butter Masala,Veg,180,3,395,3.8,41
+1642,27-01-2024 17:00,Kolkata,Karnataka,Tandoori Treat,Paneer Butter Masala,Non-Veg,134,2,421,4.6,37
+1643,27-01-2024 18:00,Kolkata,Karnataka,Urban Bites,Veg Burger,Veg,118,4,199,4,31
+1644,27-01-2024 19:00,Bangalore,Maharashtra,Food Corner,Chicken Biryani,Veg,119,2,177,4.3,58
+1645,27-01-2024 20:00,Kolkata,Maharashtra,Urban Bites,Masala Dosa,Veg,199,3,371,3.7,28
+1646,27-01-2024 21:00,Delhi,Maharashtra,Urban Bites,Fish Curry,Veg,134,4,438,4.9,25
+1647,27-01-2024 22:00,Bangalore,Delhi,Spice Hub,Chicken Biryani,Veg,131,3,261,4.8,38
+1648,27-01-2024 23:00,Kolkata,Telangana,Urban Bites,Paneer Butter Masala,Veg,147,1,143,4.8,26
+1649,28-01-2024 00:00,Mumbai,Delhi,Royal Kitchen,Chicken Biryani,Veg,143,4,337,4.1,35
+1650,28-01-2024 01:00,Delhi,Telangana,Royal Kitchen,Paneer Butter Masala,Veg,123,3,233,4.6,24
+1651,28-01-2024 02:00,Delhi,Telangana,Spice Hub,Chicken Biryani,Veg,160,4,291,3.7,35
+1652,28-01-2024 03:00,Delhi,Karnataka,Food Corner,Veg Burger,Veg,116,3,455,3.5,20
+1653,28-01-2024 04:00,Bangalore,Karnataka,Food Corner,Chicken Roll,Non-Veg,170,4,377,3.5,56
+1654,28-01-2024 05:00,Kolkata,Telangana,Urban Bites,Veg Burger,Non-Veg,149,3,117,4.4,58
+1655,28-01-2024 06:00,Kolkata,Telangana,Urban Bites,Veg Burger,Non-Veg,164,1,111,4.2,38
+1656,28-01-2024 07:00,Mumbai,Delhi,Urban Bites,Chicken Roll,Non-Veg,198,4,279,4.3,56
+1657,28-01-2024 08:00,Mumbai,Delhi,Food Corner,Chicken Roll,Veg,131,4,222,3.5,36
+1658,28-01-2024 09:00,Delhi,Karnataka,Tandoori Treat,Masala Dosa,Non-Veg,135,4,345,4.1,45
+1659,28-01-2024 10:00,Mumbai,Maharashtra,Royal Kitchen,Fish Curry,Non-Veg,112,4,321,4.6,41
+1660,28-01-2024 11:00,Bangalore,Telangana,Tandoori Treat,Fish Curry,Veg,169,1,472,4.2,27
+1661,28-01-2024 12:00,Kolkata,Delhi,Tandoori Treat,Masala Dosa,Non-Veg,157,4,150,4.6,52
+1662,28-01-2024 13:00,Delhi,Karnataka,Food Corner,Veg Burger,Non-Veg,113,2,170,3.8,21
+1663,28-01-2024 14:00,Mumbai,Delhi,Tandoori Treat,Veg Burger,Veg,136,1,147,4.7,49
+1664,28-01-2024 15:00,Bangalore,Telangana,Spice Hub,Paneer Butter Masala,Veg,178,2,118,4.4,39
+1665,28-01-2024 16:00,Bangalore,Telangana,Urban Bites,Paneer Butter Masala,Veg,167,4,361,3.8,37
+1666,28-01-2024 17:00,Mumbai,West Bengal,Spice Hub,Fish Curry,Non-Veg,139,3,183,3.9,29
+1667,28-01-2024 18:00,Kolkata,Maharashtra,Royal Kitchen,Masala Dosa,Non-Veg,158,2,254,4.4,43
+1668,28-01-2024 19:00,Mumbai,West Bengal,Urban Bites,Veg Pizza,Veg,179,4,152,4.7,23
+1669,28-01-2024 20:00,Delhi,Karnataka,Tandoori Treat,Veg Pizza,Veg,191,2,206,4.1,56
+1670,28-01-2024 21:00,Mumbai,Delhi,Royal Kitchen,Masala Dosa,Non-Veg,115,4,456,3.9,23
+1671,28-01-2024 22:00,Bangalore,Karnataka,Urban Bites,Paneer Butter Masala,Veg,161,4,403,4.8,32
+1672,28-01-2024 23:00,Mumbai,Telangana,Tandoori Treat,Fish Curry,Non-Veg,103,4,234,4.5,44
+1673,29-01-2024 00:00,Kolkata,West Bengal,Spice Hub,Fish Curry,Veg,144,3,168,4.2,32
+1674,29-01-2024 01:00,Hyderabad,West Bengal,Urban Bites,Paneer Butter Masala,Veg,189,2,110,4.2,37
+1675,29-01-2024 02:00,Mumbai,West Bengal,Tandoori Treat,Veg Pizza,Non-Veg,127,1,242,3.8,43
+1676,29-01-2024 03:00,Kolkata,Karnataka,Spice Hub,Chicken Biryani,Veg,195,1,291,4.4,21
+1677,29-01-2024 04:00,Kolkata,Telangana,Royal Kitchen,Chicken Biryani,Veg,165,1,486,4,52
+1678,29-01-2024 05:00,Bangalore,Delhi,Royal Kitchen,Paneer Butter Masala,Veg,130,1,477,5,38
+1679,29-01-2024 06:00,Kolkata,Delhi,Royal Kitchen,Chicken Biryani,Non-Veg,102,4,168,4.2,28
+1680,29-01-2024 07:00,Kolkata,Karnataka,Royal Kitchen,Chicken Roll,Veg,107,2,122,4.2,47
+1681,29-01-2024 08:00,Kolkata,West Bengal,Food Corner,Masala Dosa,Veg,123,2,280,4.3,54
+1682,29-01-2024 09:00,Kolkata,Maharashtra,Urban Bites,Masala Dosa,Veg,114,3,392,4.9,58
+1683,29-01-2024 10:00,Delhi,Karnataka,Urban Bites,Paneer Butter Masala,Veg,142,2,108,4.7,29
+1684,29-01-2024 11:00,Delhi,Karnataka,Food Corner,Veg Burger,Veg,130,2,370,4.2,20
+1685,29-01-2024 12:00,Bangalore,Telangana,Tandoori Treat,Veg Pizza,Veg,172,2,486,4.6,40
+1686,29-01-2024 13:00,Mumbai,Delhi,Tandoori Treat,Paneer Butter Masala,Non-Veg,144,3,192,4.4,28
+1687,29-01-2024 14:00,Kolkata,Karnataka,Royal Kitchen,Chicken Biryani,Non-Veg,165,1,116,4.2,34
+1688,29-01-2024 15:00,Mumbai,Karnataka,Spice Hub,Veg Pizza,Veg,107,2,253,3.8,54
+1689,29-01-2024 16:00,Mumbai,West Bengal,Tandoori Treat,Veg Burger,Non-Veg,170,3,427,4.2,24
+1690,29-01-2024 17:00,Bangalore,West Bengal,Spice Hub,Chicken Biryani,Non-Veg,156,3,248,3.9,41
+1691,29-01-2024 18:00,Kolkata,Maharashtra,Urban Bites,Fish Curry,Veg,179,4,476,4.9,42
+1692,29-01-2024 19:00,Kolkata,Telangana,Spice Hub,Chicken Roll,Non-Veg,198,3,366,4,26
+1693,29-01-2024 20:00,Hyderabad,Maharashtra,Urban Bites,Chicken Biryani,Non-Veg,129,1,427,4.9,42
+1694,29-01-2024 21:00,Mumbai,West Bengal,Food Corner,Chicken Roll,Non-Veg,173,2,205,4.3,44
+1695,29-01-2024 22:00,Mumbai,Delhi,Food Corner,Veg Pizza,Non-Veg,117,3,480,4.4,46
+1696,29-01-2024 23:00,Delhi,West Bengal,Royal Kitchen,Chicken Roll,Non-Veg,168,1,134,4.3,25
+1697,30-01-2024 00:00,Hyderabad,Telangana,Tandoori Treat,Veg Pizza,Non-Veg,192,3,218,3.7,53
+1698,30-01-2024 01:00,Delhi,West Bengal,Royal Kitchen,Veg Pizza,Non-Veg,138,3,113,4.1,28
+1699,30-01-2024 02:00,Delhi,Telangana,Urban Bites,Veg Pizza,Non-Veg,159,3,113,3.6,52
+1700,30-01-2024 03:00,Delhi,Telangana,Royal Kitchen,Veg Pizza,Veg,197,3,365,4.4,25
+1701,30-01-2024 04:00,Bangalore,Telangana,Spice Hub,Veg Pizza,Veg,142,3,239,4.2,56
+1702,30-01-2024 05:00,Bangalore,Telangana,Urban Bites,Chicken Biryani,Non-Veg,144,1,393,4.7,50
+1703,30-01-2024 06:00,Delhi,Telangana,Food Corner,Veg Pizza,Non-Veg,122,2,463,3.8,53
+1704,30-01-2024 07:00,Hyderabad,Delhi,Tandoori Treat,Chicken Biryani,Veg,168,2,218,3.7,48
+1705,30-01-2024 08:00,Mumbai,Maharashtra,Urban Bites,Veg Pizza,Non-Veg,193,2,337,4.1,33
+1706,30-01-2024 09:00,Hyderabad,Karnataka,Urban Bites,Chicken Roll,Non-Veg,105,2,133,4.9,55
+1707,30-01-2024 10:00,Kolkata,Maharashtra,Spice Hub,Fish Curry,Veg,155,1,268,4.6,55
+1708,30-01-2024 11:00,Bangalore,Telangana,Tandoori Treat,Veg Pizza,Veg,103,4,109,4.1,34
+1709,30-01-2024 12:00,Mumbai,Delhi,Food Corner,Veg Burger,Veg,192,4,221,4.3,27
+1710,30-01-2024 13:00,Mumbai,West Bengal,Urban Bites,Veg Pizza,Non-Veg,122,1,244,3.6,45
+1711,30-01-2024 14:00,Kolkata,Delhi,Urban Bites,Veg Pizza,Non-Veg,105,1,322,5,55
+1712,30-01-2024 15:00,Kolkata,Telangana,Spice Hub,Chicken Roll,Veg,131,3,470,4.5,40
+1713,30-01-2024 16:00,Delhi,Delhi,Royal Kitchen,Masala Dosa,Veg,117,3,356,3.9,47
+1714,30-01-2024 17:00,Bangalore,Delhi,Food Corner,Chicken Roll,Non-Veg,114,3,367,4.4,23
+1715,30-01-2024 18:00,Bangalore,Telangana,Tandoori Treat,Veg Burger,Veg,139,2,458,3.7,35
+1716,30-01-2024 19:00,Hyderabad,Delhi,Urban Bites,Masala Dosa,Non-Veg,195,3,103,4.9,41
+1717,30-01-2024 20:00,Delhi,Karnataka,Urban Bites,Paneer Butter Masala,Non-Veg,172,4,496,3.8,31
+1718,30-01-2024 21:00,Delhi,Karnataka,Food Corner,Paneer Butter Masala,Veg,173,2,453,4.5,35
+1719,30-01-2024 22:00,Delhi,Delhi,Royal Kitchen,Veg Burger,Veg,183,3,205,3.9,59
+1720,30-01-2024 23:00,Delhi,West Bengal,Urban Bites,Chicken Roll,Non-Veg,105,2,184,4.6,57
+1721,31-01-2024 00:00,Bangalore,Telangana,Food Corner,Chicken Biryani,Veg,162,4,313,4.7,56
+1722,31-01-2024 01:00,Bangalore,Karnataka,Spice Hub,Veg Burger,Veg,166,3,220,4.5,48
+1723,31-01-2024 02:00,Delhi,West Bengal,Royal Kitchen,Fish Curry,Veg,110,4,231,4.4,37
+1724,31-01-2024 03:00,Hyderabad,Delhi,Tandoori Treat,Masala Dosa,Veg,142,4,437,4.8,29
+1725,31-01-2024 04:00,Mumbai,West Bengal,Urban Bites,Masala Dosa,Non-Veg,116,4,296,3.6,58
+1726,31-01-2024 05:00,Mumbai,Maharashtra,Food Corner,Veg Pizza,Non-Veg,195,3,118,4,37
+1727,31-01-2024 06:00,Hyderabad,Karnataka,Spice Hub,Paneer Butter Masala,Non-Veg,103,1,229,3.9,20
+1728,31-01-2024 07:00,Delhi,Delhi,Tandoori Treat,Masala Dosa,Non-Veg,162,3,111,5,58
+1729,31-01-2024 08:00,Bangalore,Telangana,Food Corner,Veg Burger,Veg,167,4,180,4.1,40
+1730,31-01-2024 09:00,Mumbai,Delhi,Food Corner,Masala Dosa,Veg,180,3,429,4.6,20
+1731,31-01-2024 10:00,Kolkata,Telangana,Tandoori Treat,Veg Burger,Non-Veg,140,4,453,4.5,34
+1732,31-01-2024 11:00,Kolkata,Delhi,Spice Hub,Chicken Biryani,Non-Veg,182,1,361,3.8,23
+1733,31-01-2024 12:00,Hyderabad,West Bengal,Spice Hub,Veg Pizza,Veg,104,2,491,3.9,39
+1734,31-01-2024 13:00,Delhi,West Bengal,Royal Kitchen,Paneer Butter Masala,Non-Veg,131,1,224,3.9,29
+1735,31-01-2024 14:00,Mumbai,West Bengal,Urban Bites,Masala Dosa,Non-Veg,185,1,406,4.1,42
+1736,31-01-2024 15:00,Delhi,Maharashtra,Tandoori Treat,Veg Burger,Veg,169,2,366,3.9,53
+1737,31-01-2024 16:00,Mumbai,Telangana,Tandoori Treat,Chicken Roll,Non-Veg,134,3,482,3.5,52
+1738,31-01-2024 17:00,Hyderabad,West Bengal,Tandoori Treat,Paneer Butter Masala,Veg,121,2,239,4.8,53
+1739,31-01-2024 18:00,Hyderabad,Maharashtra,Spice Hub,Chicken Biryani,Veg,164,3,428,4.9,58
+1740,31-01-2024 19:00,Kolkata,Telangana,Urban Bites,Veg Burger,Non-Veg,183,3,101,4,29
+1741,31-01-2024 20:00,Delhi,Delhi,Royal Kitchen,Fish Curry,Veg,121,4,107,4,39
+1742,31-01-2024 21:00,Kolkata,Maharashtra,Food Corner,Fish Curry,Non-Veg,110,4,349,3.5,20
+1743,31-01-2024 22:00,Delhi,Karnataka,Food Corner,Veg Pizza,Veg,176,2,238,4.5,32
+1744,31-01-2024 23:00,Kolkata,Maharashtra,Tandoori Treat,Veg Pizza,Non-Veg,102,1,223,4.7,20
+1745,01-02-2024 00:00,Bangalore,Maharashtra,Urban Bites,Chicken Biryani,Non-Veg,108,2,408,3.7,24
+1746,01-02-2024 01:00,Bangalore,Telangana,Spice Hub,Chicken Biryani,Non-Veg,159,3,327,3.7,35
+1747,01-02-2024 02:00,Bangalore,Delhi,Urban Bites,Veg Pizza,Veg,175,4,109,4.7,34
+1748,01-02-2024 03:00,Bangalore,Karnataka,Urban Bites,Masala Dosa,Veg,186,2,311,4.4,47
+1749,01-02-2024 04:00,Mumbai,West Bengal,Spice Hub,Masala Dosa,Non-Veg,113,2,211,3.6,50
+1750,01-02-2024 05:00,Bangalore,West Bengal,Tandoori Treat,Veg Burger,Veg,196,4,107,4.4,42
+1751,01-02-2024 06:00,Hyderabad,Maharashtra,Urban Bites,Chicken Roll,Non-Veg,117,4,391,4,36
+1752,01-02-2024 07:00,Hyderabad,Telangana,Food Corner,Veg Burger,Non-Veg,172,4,461,4.1,53
+1753,01-02-2024 08:00,Mumbai,Telangana,Spice Hub,Chicken Roll,Veg,122,3,352,4.7,32
+1754,01-02-2024 09:00,Bangalore,West Bengal,Royal Kitchen,Chicken Biryani,Non-Veg,173,4,113,4.7,33
+1755,01-02-2024 10:00,Bangalore,Karnataka,Tandoori Treat,Paneer Butter Masala,Veg,182,1,339,4.1,30
+1756,01-02-2024 11:00,Bangalore,Delhi,Spice Hub,Veg Burger,Non-Veg,146,2,341,4.9,47
+1757,01-02-2024 12:00,Kolkata,Karnataka,Royal Kitchen,Veg Burger,Veg,168,4,441,4.1,51
+1758,01-02-2024 13:00,Delhi,Delhi,Royal Kitchen,Chicken Roll,Non-Veg,146,4,248,4.7,54
+1759,01-02-2024 14:00,Kolkata,West Bengal,Urban Bites,Chicken Biryani,Non-Veg,186,3,335,4.2,50
+1760,01-02-2024 15:00,Delhi,Delhi,Urban Bites,Chicken Biryani,Veg,129,3,405,4.8,36
+1761,01-02-2024 16:00,Bangalore,Telangana,Urban Bites,Fish Curry,Non-Veg,124,2,266,4.9,28
+1762,01-02-2024 17:00,Bangalore,Maharashtra,Spice Hub,Chicken Roll,Non-Veg,127,1,119,3.6,29
+1763,01-02-2024 18:00,Kolkata,Maharashtra,Spice Hub,Chicken Biryani,Veg,197,2,315,4.9,27
+1764,01-02-2024 19:00,Kolkata,West Bengal,Tandoori Treat,Veg Pizza,Non-Veg,124,4,442,4.7,40
+1765,01-02-2024 20:00,Delhi,Telangana,Urban Bites,Masala Dosa,Veg,173,1,234,4.7,32
+1766,01-02-2024 21:00,Hyderabad,Karnataka,Royal Kitchen,Fish Curry,Non-Veg,177,1,492,3.8,24
+1767,01-02-2024 22:00,Delhi,Telangana,Food Corner,Veg Pizza,Veg,157,1,228,4.7,25
+1768,01-02-2024 23:00,Kolkata,Maharashtra,Tandoori Treat,Paneer Butter Masala,Non-Veg,193,1,393,4.8,49
+1769,02-02-2024 00:00,Kolkata,Maharashtra,Spice Hub,Veg Burger,Non-Veg,140,2,345,3.9,50
+1770,02-02-2024 01:00,Mumbai,Telangana,Tandoori Treat,Fish Curry,Non-Veg,124,3,288,4.9,36
+1771,02-02-2024 02:00,Kolkata,Telangana,Tandoori Treat,Paneer Butter Masala,Veg,177,3,143,3.6,30
+1772,02-02-2024 03:00,Mumbai,Maharashtra,Tandoori Treat,Veg Burger,Veg,198,4,185,3.7,39
+1773,02-02-2024 04:00,Hyderabad,Karnataka,Tandoori Treat,Masala Dosa,Veg,147,3,143,4.3,28
+1774,02-02-2024 05:00,Delhi,West Bengal,Food Corner,Chicken Biryani,Veg,197,3,429,4.4,21
+1775,02-02-2024 06:00,Delhi,West Bengal,Urban Bites,Veg Pizza,Non-Veg,109,3,474,4.5,56
+1776,02-02-2024 07:00,Mumbai,Telangana,Royal Kitchen,Chicken Roll,Non-Veg,198,3,477,3.5,20
+1777,02-02-2024 08:00,Delhi,West Bengal,Tandoori Treat,Veg Pizza,Veg,174,4,489,4.9,23
+1778,02-02-2024 09:00,Kolkata,Maharashtra,Tandoori Treat,Masala Dosa,Veg,110,2,244,3.6,55
+1779,02-02-2024 10:00,Bangalore,Maharashtra,Tandoori Treat,Paneer Butter Masala,Veg,184,1,150,3.7,44
+1780,02-02-2024 11:00,Mumbai,Telangana,Urban Bites,Chicken Roll,Non-Veg,120,3,341,3.5,22
+1781,02-02-2024 12:00,Delhi,Telangana,Spice Hub,Chicken Biryani,Veg,185,2,393,4.4,28
+1782,02-02-2024 13:00,Mumbai,Telangana,Spice Hub,Masala Dosa,Veg,144,3,150,4.9,41
+1783,02-02-2024 14:00,Mumbai,Karnataka,Food Corner,Chicken Roll,Non-Veg,106,3,365,4.5,42
+1784,02-02-2024 15:00,Bangalore,West Bengal,Spice Hub,Masala Dosa,Non-Veg,180,1,219,4.7,31
+1785,02-02-2024 16:00,Kolkata,Telangana,Tandoori Treat,Masala Dosa,Veg,163,1,299,3.5,29
+1786,02-02-2024 17:00,Mumbai,Delhi,Tandoori Treat,Chicken Biryani,Non-Veg,163,1,347,4.3,53
+1787,02-02-2024 18:00,Delhi,Delhi,Tandoori Treat,Fish Curry,Veg,101,3,169,4.2,29
+1788,02-02-2024 19:00,Hyderabad,Maharashtra,Food Corner,Veg Burger,Non-Veg,175,3,440,4.2,49
+1789,02-02-2024 20:00,Mumbai,West Bengal,Tandoori Treat,Chicken Roll,Veg,141,3,156,3.6,41
+1790,02-02-2024 21:00,Mumbai,Telangana,Spice Hub,Chicken Biryani,Veg,181,1,481,4.5,25
+1791,02-02-2024 22:00,Bangalore,Delhi,Urban Bites,Masala Dosa,Veg,153,4,138,4.3,21
+1792,02-02-2024 23:00,Kolkata,West Bengal,Urban Bites,Chicken Biryani,Veg,174,2,388,4.6,49
+1793,03-02-2024 00:00,Hyderabad,Maharashtra,Royal Kitchen,Fish Curry,Non-Veg,115,4,117,4.2,21
+1794,03-02-2024 01:00,Delhi,Karnataka,Spice Hub,Veg Burger,Non-Veg,117,3,319,3.7,51
+1795,03-02-2024 02:00,Hyderabad,West Bengal,Tandoori Treat,Veg Pizza,Non-Veg,198,3,412,4.5,35
+1796,03-02-2024 03:00,Delhi,West Bengal,Urban Bites,Chicken Roll,Non-Veg,158,4,343,3.8,31
+1797,03-02-2024 04:00,Kolkata,Karnataka,Spice Hub,Veg Burger,Veg,189,3,451,4.8,20
+1798,03-02-2024 05:00,Delhi,West Bengal,Urban Bites,Paneer Butter Masala,Veg,115,2,403,4.4,27
+1799,03-02-2024 06:00,Bangalore,Maharashtra,Tandoori Treat,Chicken Roll,Non-Veg,105,3,397,3.7,32
+1800,03-02-2024 07:00,Bangalore,Maharashtra,Urban Bites,Veg Burger,Non-Veg,156,2,382,4.9,34
+1801,03-02-2024 08:00,Bangalore,Karnataka,Royal Kitchen,Masala Dosa,Non-Veg,146,4,173,4.3,27
+1802,03-02-2024 09:00,Bangalore,Telangana,Royal Kitchen,Chicken Roll,Non-Veg,147,4,209,3.6,29
+1803,03-02-2024 10:00,Hyderabad,Delhi,Urban Bites,Chicken Roll,Non-Veg,141,3,279,4.4,24
+1804,03-02-2024 11:00,Kolkata,Telangana,Spice Hub,Chicken Biryani,Veg,175,2,131,3.9,38
+1805,03-02-2024 12:00,Delhi,West Bengal,Spice Hub,Masala Dosa,Veg,159,3,333,4.7,57
+1806,03-02-2024 13:00,Delhi,Delhi,Spice Hub,Paneer Butter Masala,Veg,176,1,381,4.7,30
+1807,03-02-2024 14:00,Bangalore,Karnataka,Urban Bites,Veg Pizza,Non-Veg,103,1,124,5,39
+1808,03-02-2024 15:00,Bangalore,Karnataka,Spice Hub,Fish Curry,Non-Veg,101,1,430,4.3,39
+1809,03-02-2024 16:00,Mumbai,Delhi,Tandoori Treat,Veg Burger,Non-Veg,189,1,378,4.2,40
+1810,03-02-2024 17:00,Kolkata,Maharashtra,Royal Kitchen,Chicken Biryani,Non-Veg,158,3,325,4.6,37
+1811,03-02-2024 18:00,Hyderabad,Delhi,Tandoori Treat,Veg Burger,Veg,126,1,156,3.7,29
+1812,03-02-2024 19:00,Delhi,West Bengal,Spice Hub,Paneer Butter Masala,Veg,126,2,279,4.3,53
+1813,03-02-2024 20:00,Mumbai,Maharashtra,Tandoori Treat,Paneer Butter Masala,Non-Veg,178,4,331,4.3,45
+1814,03-02-2024 21:00,Mumbai,Karnataka,Spice Hub,Chicken Roll,Veg,171,4,481,3.6,49
+1815,03-02-2024 22:00,Delhi,Delhi,Urban Bites,Fish Curry,Veg,106,1,442,4.1,28
+1816,03-02-2024 23:00,Hyderabad,Telangana,Tandoori Treat,Paneer Butter Masala,Non-Veg,162,1,386,4.8,50
+1817,04-02-2024 00:00,Mumbai,Telangana,Urban Bites,Veg Burger,Non-Veg,145,1,163,4.8,23
+1818,04-02-2024 01:00,Mumbai,West Bengal,Urban Bites,Masala Dosa,Non-Veg,162,3,331,3.6,25
+1819,04-02-2024 02:00,Kolkata,Telangana,Food Corner,Masala Dosa,Non-Veg,111,4,388,3.6,33
+1820,04-02-2024 03:00,Hyderabad,Delhi,Spice Hub,Chicken Roll,Non-Veg,112,1,312,3.9,23
+1821,04-02-2024 04:00,Mumbai,Delhi,Royal Kitchen,Veg Pizza,Non-Veg,142,2,357,4.8,45
+1822,04-02-2024 05:00,Hyderabad,Telangana,Spice Hub,Veg Burger,Veg,116,1,117,3.7,58
+1823,04-02-2024 06:00,Delhi,Delhi,Royal Kitchen,Veg Burger,Veg,162,4,274,4.6,36
+1824,04-02-2024 07:00,Bangalore,West Bengal,Spice Hub,Paneer Butter Masala,Non-Veg,180,1,328,3.7,38
+1825,04-02-2024 08:00,Mumbai,Maharashtra,Urban Bites,Fish Curry,Veg,135,4,325,4.4,25
+1826,04-02-2024 09:00,Kolkata,West Bengal,Tandoori Treat,Veg Burger,Non-Veg,184,1,183,4,48
+1827,04-02-2024 10:00,Delhi,West Bengal,Tandoori Treat,Chicken Biryani,Non-Veg,107,2,390,4.7,30
+1828,04-02-2024 11:00,Hyderabad,Delhi,Food Corner,Veg Pizza,Non-Veg,168,1,469,3.9,35
+1829,04-02-2024 12:00,Delhi,Maharashtra,Royal Kitchen,Paneer Butter Masala,Non-Veg,189,2,345,4.5,49
+1830,04-02-2024 13:00,Mumbai,Delhi,Royal Kitchen,Chicken Biryani,Veg,179,2,209,3.9,44
+1831,04-02-2024 14:00,Hyderabad,Karnataka,Royal Kitchen,Chicken Roll,Non-Veg,135,1,353,4.6,59
+1832,04-02-2024 15:00,Bangalore,Delhi,Urban Bites,Masala Dosa,Veg,127,2,187,4.8,30
+1833,04-02-2024 16:00,Delhi,Delhi,Royal Kitchen,Chicken Roll,Non-Veg,192,3,171,3.7,26
+1834,04-02-2024 17:00,Mumbai,Delhi,Tandoori Treat,Masala Dosa,Non-Veg,146,1,480,4.8,45
+1835,04-02-2024 18:00,Kolkata,Maharashtra,Urban Bites,Chicken Roll,Non-Veg,175,1,129,4.4,41
+1836,04-02-2024 19:00,Hyderabad,Delhi,Spice Hub,Veg Burger,Veg,129,2,271,3.7,44
+1837,04-02-2024 20:00,Delhi,Maharashtra,Royal Kitchen,Chicken Biryani,Non-Veg,122,2,408,4.1,38
+1838,04-02-2024 21:00,Delhi,Telangana,Royal Kitchen,Masala Dosa,Non-Veg,115,1,493,3.7,50
+1839,04-02-2024 22:00,Bangalore,Karnataka,Spice Hub,Paneer Butter Masala,Non-Veg,113,3,442,4.6,45
+1840,04-02-2024 23:00,Bangalore,Maharashtra,Royal Kitchen,Chicken Biryani,Veg,173,2,276,4.6,55
+1841,05-02-2024 00:00,Kolkata,Telangana,Spice Hub,Paneer Butter Masala,Veg,170,2,238,3.7,42
+1842,05-02-2024 01:00,Kolkata,Maharashtra,Urban Bites,Chicken Biryani,Veg,151,4,293,4.3,32
+1843,05-02-2024 02:00,Mumbai,Maharashtra,Tandoori Treat,Chicken Biryani,Non-Veg,136,3,285,4.7,44
+1844,05-02-2024 03:00,Mumbai,Karnataka,Spice Hub,Chicken Roll,Veg,128,3,317,4.9,21
+1845,05-02-2024 04:00,Kolkata,West Bengal,Food Corner,Masala Dosa,Non-Veg,166,1,263,4.3,21
+1846,05-02-2024 05:00,Kolkata,West Bengal,Spice Hub,Masala Dosa,Veg,114,3,260,4.9,35
+1847,05-02-2024 06:00,Hyderabad,Maharashtra,Royal Kitchen,Fish Curry,Veg,199,1,112,4.3,28
+1848,05-02-2024 07:00,Bangalore,Delhi,Urban Bites,Chicken Biryani,Non-Veg,146,4,395,4.1,47
+1849,05-02-2024 08:00,Mumbai,Telangana,Urban Bites,Veg Burger,Veg,145,3,188,4.8,32
+1850,05-02-2024 09:00,Bangalore,Delhi,Spice Hub,Veg Burger,Non-Veg,151,2,423,4.2,54
+1851,05-02-2024 10:00,Bangalore,Delhi,Tandoori Treat,Paneer Butter Masala,Non-Veg,118,4,141,4.2,32
+1852,05-02-2024 11:00,Kolkata,Maharashtra,Food Corner,Paneer Butter Masala,Veg,176,1,309,4.2,50
+1853,05-02-2024 12:00,Hyderabad,Maharashtra,Urban Bites,Chicken Roll,Non-Veg,120,4,328,4.8,40
+1854,05-02-2024 13:00,Delhi,Maharashtra,Royal Kitchen,Chicken Biryani,Non-Veg,163,1,449,4.7,51
+1855,05-02-2024 14:00,Hyderabad,Maharashtra,Royal Kitchen,Paneer Butter Masala,Veg,136,4,374,4.1,53
+1856,05-02-2024 15:00,Hyderabad,West Bengal,Tandoori Treat,Paneer Butter Masala,Veg,126,1,378,4,27
+1857,05-02-2024 16:00,Bangalore,Maharashtra,Urban Bites,Veg Pizza,Non-Veg,154,3,350,4.2,21
+1858,05-02-2024 17:00,Hyderabad,West Bengal,Spice Hub,Chicken Biryani,Veg,128,2,409,4.4,57
+1859,05-02-2024 18:00,Mumbai,West Bengal,Royal Kitchen,Chicken Roll,Non-Veg,119,1,307,3.9,51
+1860,05-02-2024 19:00,Bangalore,Maharashtra,Tandoori Treat,Paneer Butter Masala,Non-Veg,124,4,420,4.7,59
+1861,05-02-2024 20:00,Mumbai,Karnataka,Urban Bites,Chicken Roll,Veg,169,1,239,4.2,47
+1862,05-02-2024 21:00,Delhi,Telangana,Urban Bites,Masala Dosa,Veg,162,1,379,4,56
+1863,05-02-2024 22:00,Bangalore,Delhi,Urban Bites,Chicken Roll,Veg,135,1,133,3.7,20
+1864,05-02-2024 23:00,Delhi,West Bengal,Urban Bites,Veg Burger,Veg,101,4,408,3.9,29
+1865,06-02-2024 00:00,Bangalore,Telangana,Urban Bites,Veg Burger,Non-Veg,121,2,491,4.9,23
+1866,06-02-2024 01:00,Kolkata,Karnataka,Royal Kitchen,Chicken Roll,Non-Veg,195,3,117,4,54
+1867,06-02-2024 02:00,Hyderabad,Delhi,Tandoori Treat,Veg Burger,Veg,115,2,156,3.8,29
+1868,06-02-2024 03:00,Kolkata,Delhi,Urban Bites,Masala Dosa,Veg,117,1,211,4.2,30
+1869,06-02-2024 04:00,Delhi,West Bengal,Food Corner,Chicken Biryani,Non-Veg,168,4,104,4,33
+1870,06-02-2024 05:00,Hyderabad,Maharashtra,Food Corner,Veg Burger,Non-Veg,153,2,281,3.6,57
+1871,06-02-2024 06:00,Bangalore,Karnataka,Tandoori Treat,Veg Burger,Non-Veg,199,1,112,4,31
+1872,06-02-2024 07:00,Hyderabad,West Bengal,Spice Hub,Chicken Roll,Non-Veg,129,3,438,4.3,36
+1873,06-02-2024 08:00,Mumbai,Karnataka,Spice Hub,Masala Dosa,Veg,144,3,384,4.3,35
+1874,06-02-2024 09:00,Hyderabad,Maharashtra,Spice Hub,Fish Curry,Non-Veg,118,3,358,4,54
+1875,06-02-2024 10:00,Mumbai,Maharashtra,Food Corner,Fish Curry,Non-Veg,186,1,189,4.2,21
+1876,06-02-2024 11:00,Hyderabad,West Bengal,Spice Hub,Fish Curry,Veg,133,4,203,4.9,30
+1877,06-02-2024 12:00,Mumbai,Maharashtra,Royal Kitchen,Fish Curry,Non-Veg,112,2,478,4.1,22
+1878,06-02-2024 13:00,Delhi,Telangana,Urban Bites,Chicken Biryani,Non-Veg,142,3,285,3.9,48
+1879,06-02-2024 14:00,Kolkata,Delhi,Food Corner,Chicken Roll,Veg,161,1,349,3.9,37
+1880,06-02-2024 15:00,Bangalore,West Bengal,Tandoori Treat,Chicken Roll,Veg,192,1,354,4.2,39
+1881,06-02-2024 16:00,Hyderabad,Karnataka,Tandoori Treat,Veg Pizza,Veg,199,2,175,4.6,33
+1882,06-02-2024 17:00,Kolkata,Telangana,Urban Bites,Masala Dosa,Non-Veg,121,3,485,3.8,53
+1883,06-02-2024 18:00,Bangalore,West Bengal,Food Corner,Fish Curry,Non-Veg,151,1,207,4.6,50
+1884,06-02-2024 19:00,Bangalore,Maharashtra,Spice Hub,Chicken Biryani,Veg,151,2,255,3.5,59
+1885,06-02-2024 20:00,Mumbai,Maharashtra,Spice Hub,Masala Dosa,Veg,135,4,181,4.1,37
+1886,06-02-2024 21:00,Delhi,Maharashtra,Royal Kitchen,Fish Curry,Non-Veg,172,4,176,4.7,49
+1887,06-02-2024 22:00,Delhi,Maharashtra,Royal Kitchen,Chicken Biryani,Veg,118,4,357,4,44
+1888,06-02-2024 23:00,Kolkata,Karnataka,Spice Hub,Masala Dosa,Veg,137,3,226,4.3,38
+1889,07-02-2024 00:00,Delhi,Telangana,Tandoori Treat,Chicken Roll,Veg,169,2,490,3.8,27
+1890,07-02-2024 01:00,Hyderabad,Delhi,Tandoori Treat,Chicken Roll,Non-Veg,178,2,381,4.6,47
+1891,07-02-2024 02:00,Delhi,Karnataka,Royal Kitchen,Paneer Butter Masala,Non-Veg,156,1,187,3.6,27
+1892,07-02-2024 03:00,Kolkata,Karnataka,Urban Bites,Veg Burger,Non-Veg,119,1,303,4.8,50
+1893,07-02-2024 04:00,Delhi,Delhi,Spice Hub,Fish Curry,Non-Veg,108,1,115,3.8,22
+1894,07-02-2024 05:00,Hyderabad,Delhi,Royal Kitchen,Veg Pizza,Non-Veg,131,2,250,4.8,22
+1895,07-02-2024 06:00,Mumbai,Maharashtra,Royal Kitchen,Masala Dosa,Non-Veg,103,1,353,4,41
+1896,07-02-2024 07:00,Kolkata,Karnataka,Spice Hub,Veg Pizza,Veg,149,2,287,4.6,36
+1897,07-02-2024 08:00,Mumbai,West Bengal,Spice Hub,Paneer Butter Masala,Non-Veg,181,2,428,4,55
+1898,07-02-2024 09:00,Mumbai,Delhi,Tandoori Treat,Veg Burger,Non-Veg,104,4,131,4.9,36
+1899,07-02-2024 10:00,Mumbai,Delhi,Urban Bites,Masala Dosa,Veg,119,1,370,3.7,33
+1900,07-02-2024 11:00,Bangalore,Telangana,Urban Bites,Chicken Biryani,Non-Veg,186,4,496,3.8,28
+1901,07-02-2024 12:00,Bangalore,West Bengal,Spice Hub,Fish Curry,Non-Veg,174,3,104,4.2,49
+1902,07-02-2024 13:00,Mumbai,West Bengal,Food Corner,Veg Burger,Veg,136,3,429,3.6,40
+1903,07-02-2024 14:00,Kolkata,Delhi,Royal Kitchen,Chicken Roll,Veg,121,3,407,3.8,31
+1904,07-02-2024 15:00,Hyderabad,Maharashtra,Royal Kitchen,Paneer Butter Masala,Veg,157,2,432,4.9,56
+1905,07-02-2024 16:00,Hyderabad,Telangana,Spice Hub,Veg Burger,Non-Veg,167,2,268,5,51
+1906,07-02-2024 17:00,Delhi,West Bengal,Food Corner,Fish Curry,Veg,192,2,280,4.1,30
+1907,07-02-2024 18:00,Kolkata,Delhi,Tandoori Treat,Veg Burger,Non-Veg,143,1,465,4.9,39
+1908,07-02-2024 19:00,Bangalore,West Bengal,Spice Hub,Fish Curry,Non-Veg,133,4,277,4.3,54
+1909,07-02-2024 20:00,Mumbai,Telangana,Spice Hub,Chicken Roll,Non-Veg,176,2,242,3.9,30
+1910,07-02-2024 21:00,Delhi,Telangana,Royal Kitchen,Masala Dosa,Non-Veg,141,4,461,4.6,27
+1911,07-02-2024 22:00,Hyderabad,Karnataka,Spice Hub,Chicken Biryani,Veg,108,4,347,4.5,23
+1912,07-02-2024 23:00,Bangalore,Delhi,Spice Hub,Chicken Roll,Veg,194,4,226,5,46
+1913,08-02-2024 00:00,Bangalore,Telangana,Spice Hub,Chicken Biryani,Non-Veg,106,1,362,3.9,59
+1914,08-02-2024 01:00,Mumbai,Karnataka,Royal Kitchen,Masala Dosa,Veg,167,1,139,4.5,57
+1915,08-02-2024 02:00,Hyderabad,Karnataka,Tandoori Treat,Veg Burger,Non-Veg,118,3,454,3.6,49
+1916,08-02-2024 03:00,Kolkata,West Bengal,Tandoori Treat,Chicken Biryani,Non-Veg,193,3,354,3.7,46
+1917,08-02-2024 04:00,Bangalore,West Bengal,Spice Hub,Paneer Butter Masala,Non-Veg,130,4,242,3.5,40
+1918,08-02-2024 05:00,Mumbai,Karnataka,Royal Kitchen,Paneer Butter Masala,Veg,134,3,339,5,39
+1919,08-02-2024 06:00,Kolkata,West Bengal,Tandoori Treat,Fish Curry,Non-Veg,156,4,327,4.7,23
+1920,08-02-2024 07:00,Hyderabad,Telangana,Tandoori Treat,Chicken Roll,Non-Veg,184,1,440,4.7,30
+1921,08-02-2024 08:00,Bangalore,Maharashtra,Tandoori Treat,Masala Dosa,Veg,160,1,297,4.3,32
+1922,08-02-2024 09:00,Kolkata,Telangana,Royal Kitchen,Fish Curry,Veg,130,1,164,4,28
+1923,08-02-2024 10:00,Kolkata,Karnataka,Royal Kitchen,Chicken Roll,Veg,182,2,487,3.7,23
+1924,08-02-2024 11:00,Kolkata,Karnataka,Spice Hub,Chicken Roll,Veg,194,4,110,3.9,31
+1925,08-02-2024 12:00,Bangalore,Telangana,Urban Bites,Fish Curry,Non-Veg,152,1,207,4.1,28
+1926,08-02-2024 13:00,Bangalore,West Bengal,Tandoori Treat,Veg Pizza,Veg,131,4,125,4.6,32
+1927,08-02-2024 14:00,Delhi,West Bengal,Urban Bites,Chicken Roll,Non-Veg,165,3,250,4.3,45
+1928,08-02-2024 15:00,Hyderabad,Karnataka,Royal Kitchen,Veg Pizza,Veg,158,3,320,3.6,57
+1929,08-02-2024 16:00,Mumbai,Delhi,Royal Kitchen,Paneer Butter Masala,Veg,109,1,440,3.5,32
+1930,08-02-2024 17:00,Kolkata,West Bengal,Royal Kitchen,Paneer Butter Masala,Veg,101,4,336,3.7,58
+1931,08-02-2024 18:00,Delhi,Telangana,Urban Bites,Chicken Roll,Veg,165,1,336,4.1,47
+1932,08-02-2024 19:00,Mumbai,West Bengal,Royal Kitchen,Paneer Butter Masala,Veg,159,3,318,4.9,38
+1933,08-02-2024 20:00,Delhi,Telangana,Spice Hub,Masala Dosa,Veg,187,1,250,4.5,43
+1934,08-02-2024 21:00,Bangalore,Karnataka,Royal Kitchen,Veg Pizza,Non-Veg,116,4,222,4.7,38
+1935,08-02-2024 22:00,Kolkata,West Bengal,Food Corner,Veg Pizza,Veg,195,3,243,4.2,32
+1936,08-02-2024 23:00,Mumbai,Telangana,Urban Bites,Chicken Roll,Veg,115,2,288,4,32
+1937,09-02-2024 00:00,Mumbai,Karnataka,Food Corner,Paneer Butter Masala,Veg,115,3,354,3.7,47
+1938,09-02-2024 01:00,Mumbai,Delhi,Royal Kitchen,Chicken Biryani,Veg,145,2,167,4.8,21
+1939,09-02-2024 02:00,Mumbai,Telangana,Spice Hub,Fish Curry,Non-Veg,138,1,203,4.7,29
+1940,09-02-2024 03:00,Mumbai,Delhi,Tandoori Treat,Fish Curry,Veg,130,1,435,3.8,41
+1941,09-02-2024 04:00,Delhi,Delhi,Royal Kitchen,Veg Pizza,Veg,187,4,258,4.3,32
+1942,09-02-2024 05:00,Kolkata,Maharashtra,Spice Hub,Chicken Roll,Veg,100,2,408,4.2,28
+1943,09-02-2024 06:00,Bangalore,West Bengal,Urban Bites,Chicken Roll,Veg,110,1,461,4.4,52
+1944,09-02-2024 07:00,Bangalore,Telangana,Food Corner,Masala Dosa,Non-Veg,184,2,399,4.9,33
+1945,09-02-2024 08:00,Bangalore,Delhi,Food Corner,Veg Burger,Veg,103,1,495,4.4,39
+1946,09-02-2024 09:00,Bangalore,Maharashtra,Food Corner,Veg Burger,Non-Veg,170,3,189,4.3,34
+1947,09-02-2024 10:00,Delhi,Karnataka,Urban Bites,Veg Pizza,Veg,125,1,456,3.6,51
+1948,09-02-2024 11:00,Hyderabad,Telangana,Spice Hub,Fish Curry,Non-Veg,149,4,355,3.6,52
+1949,09-02-2024 12:00,Kolkata,Delhi,Urban Bites,Masala Dosa,Non-Veg,111,3,452,3.8,36
+1950,09-02-2024 13:00,Mumbai,West Bengal,Food Corner,Masala Dosa,Veg,194,4,319,3.5,43
+1951,09-02-2024 14:00,Hyderabad,Maharashtra,Royal Kitchen,Masala Dosa,Veg,180,3,108,4.6,49
+1952,09-02-2024 15:00,Bangalore,Delhi,Tandoori Treat,Veg Pizza,Non-Veg,196,2,111,4.6,32
+1953,09-02-2024 16:00,Hyderabad,West Bengal,Urban Bites,Veg Burger,Non-Veg,174,4,424,3.7,35
+1954,09-02-2024 17:00,Kolkata,Delhi,Urban Bites,Fish Curry,Veg,191,1,343,4.8,21
+1955,09-02-2024 18:00,Mumbai,Telangana,Spice Hub,Masala Dosa,Non-Veg,195,2,281,3.7,36
+1956,09-02-2024 19:00,Mumbai,Telangana,Spice Hub,Fish Curry,Non-Veg,164,1,383,4,51
+1957,09-02-2024 20:00,Kolkata,Telangana,Urban Bites,Paneer Butter Masala,Non-Veg,146,3,411,3.9,27
+1958,09-02-2024 21:00,Kolkata,Maharashtra,Food Corner,Chicken Roll,Veg,191,3,198,4.1,22
+1959,09-02-2024 22:00,Bangalore,Telangana,Tandoori Treat,Chicken Roll,Non-Veg,152,1,296,3.9,31
+1960,09-02-2024 23:00,Mumbai,West Bengal,Spice Hub,Fish Curry,Non-Veg,170,1,465,4.2,39
+1961,10-02-2024 00:00,Hyderabad,Delhi,Food Corner,Chicken Biryani,Non-Veg,101,2,325,4.1,35
+1962,10-02-2024 01:00,Delhi,Karnataka,Royal Kitchen,Chicken Biryani,Veg,123,1,432,5,33
+1963,10-02-2024 02:00,Delhi,West Bengal,Spice Hub,Veg Pizza,Veg,103,4,202,3.6,35
+1964,10-02-2024 03:00,Kolkata,West Bengal,Food Corner,Veg Pizza,Non-Veg,118,4,205,3.7,52
+1965,10-02-2024 04:00,Bangalore,Telangana,Food Corner,Chicken Roll,Veg,125,1,464,3.6,49
+1966,10-02-2024 05:00,Delhi,Maharashtra,Tandoori Treat,Paneer Butter Masala,Non-Veg,174,4,467,4.4,31
+1967,10-02-2024 06:00,Mumbai,Delhi,Tandoori Treat,Veg Burger,Veg,139,1,157,3.6,34
+1968,10-02-2024 07:00,Kolkata,Maharashtra,Royal Kitchen,Veg Burger,Veg,149,2,177,4.8,37
+1969,10-02-2024 08:00,Hyderabad,Delhi,Food Corner,Veg Pizza,Non-Veg,142,4,174,4.3,47
+1970,10-02-2024 09:00,Kolkata,Delhi,Food Corner,Paneer Butter Masala,Veg,174,4,141,4.3,42
+1971,10-02-2024 10:00,Hyderabad,Maharashtra,Tandoori Treat,Veg Pizza,Veg,166,1,423,4.3,33
+1972,10-02-2024 11:00,Kolkata,West Bengal,Spice Hub,Veg Burger,Veg,111,4,280,3.8,49
+1973,10-02-2024 12:00,Kolkata,Delhi,Spice Hub,Fish Curry,Non-Veg,166,3,132,3.8,52
+1974,10-02-2024 13:00,Kolkata,Maharashtra,Urban Bites,Veg Pizza,Veg,126,2,170,4,34
+1975,10-02-2024 14:00,Hyderabad,Delhi,Tandoori Treat,Masala Dosa,Veg,153,2,155,4.4,26
+1976,10-02-2024 15:00,Hyderabad,Karnataka,Urban Bites,Fish Curry,Non-Veg,165,4,204,3.8,34
+1977,10-02-2024 16:00,Kolkata,West Bengal,Tandoori Treat,Veg Pizza,Veg,148,4,299,3.7,57
+1978,10-02-2024 17:00,Delhi,Telangana,Royal Kitchen,Chicken Roll,Veg,115,3,200,5,30
+1979,10-02-2024 18:00,Bangalore,Delhi,Food Corner,Veg Pizza,Veg,101,3,355,3.5,48
+1980,10-02-2024 19:00,Bangalore,Karnataka,Royal Kitchen,Chicken Roll,Veg,159,4,406,4.7,50
+1981,10-02-2024 20:00,Bangalore,Telangana,Tandoori Treat,Paneer Butter Masala,Veg,153,4,173,4.7,44
+1982,10-02-2024 21:00,Hyderabad,Telangana,Food Corner,Veg Burger,Non-Veg,129,3,270,3.9,43
+1983,10-02-2024 22:00,Hyderabad,Delhi,Spice Hub,Fish Curry,Non-Veg,183,1,476,3.7,38
+1984,10-02-2024 23:00,Delhi,Maharashtra,Spice Hub,Fish Curry,Veg,137,3,242,3.7,21
+1985,11-02-2024 00:00,Bangalore,Delhi,Urban Bites,Chicken Biryani,Veg,127,1,265,4.5,41
+1986,11-02-2024 01:00,Bangalore,Karnataka,Tandoori Treat,Chicken Biryani,Veg,124,2,498,4.5,39
+1987,11-02-2024 02:00,Kolkata,Telangana,Tandoori Treat,Veg Burger,Non-Veg,195,2,360,4.7,52
+1988,11-02-2024 03:00,Hyderabad,Delhi,Spice Hub,Chicken Biryani,Non-Veg,109,3,320,4.9,27
+1989,11-02-2024 04:00,Bangalore,Maharashtra,Royal Kitchen,Fish Curry,Veg,159,1,182,4.5,44
+1990,11-02-2024 05:00,Delhi,Delhi,Food Corner,Veg Pizza,Veg,141,3,281,3.7,28
+1991,11-02-2024 06:00,Delhi,West Bengal,Royal Kitchen,Paneer Butter Masala,Non-Veg,139,3,406,3.9,53
+1992,11-02-2024 07:00,Bangalore,Maharashtra,Royal Kitchen,Paneer Butter Masala,Veg,196,1,109,4.8,42
+1993,11-02-2024 08:00,Hyderabad,Karnataka,Spice Hub,Veg Burger,Non-Veg,176,3,495,3.8,24
+1994,11-02-2024 09:00,Delhi,Telangana,Spice Hub,Chicken Biryani,Non-Veg,141,2,103,3.6,44
+1995,11-02-2024 10:00,Kolkata,Delhi,Spice Hub,Veg Pizza,Veg,146,4,450,4.6,27
+1996,11-02-2024 11:00,Delhi,Maharashtra,Urban Bites,Paneer Butter Masala,Non-Veg,136,4,435,4.1,35
+1997,11-02-2024 12:00,Mumbai,West Bengal,Royal Kitchen,Paneer Butter Masala,Veg,179,3,391,4.9,34
+1998,11-02-2024 13:00,Mumbai,Maharashtra,Tandoori Treat,Masala Dosa,Veg,121,1,380,4.5,20
+1999,11-02-2024 14:00,Hyderabad,West Bengal,Food Corner,Masala Dosa,Veg,156,1,314,3.6,41
+2000,11-02-2024 15:00,Bangalore,Karnataka,Urban Bites,Fish Curry,Veg,183,2,197,4.9,22
